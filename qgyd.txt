@@ -87,6 +87,7 @@ CETV4,http://39.134.64.87:6610/PLTV/88888888/224/3221225783/index.m3u8?IASHttpSe
 海外剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225671/index.m3u8?IASHttpSessionId=
 精品纪录,http://39.134.64.87:6610/PLTV/88888888/224/3221225672/index.m3u8?IASHttpSessionId=
 
+
 咪咕视频,#genre#
 晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
