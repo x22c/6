@@ -54,6 +54,9 @@ CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 云南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
 
 付费频道,#genre#
+4K UHD,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+江苏4K修复,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 CCTV-央视台球,http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
 CCTV-兵器科技,http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
 CCTV-第一剧场,http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
@@ -66,14 +69,8 @@ CCTV-高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 CCTV-怀旧剧场,http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
 CCTV-世界地理,http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
 CCTV-央视文化,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
-4K UHD,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-江苏4K修复,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 北京纪实科教,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-睛彩竞技,http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
-睛彩广场舞,http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
-睛彩篮球,http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
-睛彩青少,http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
+
 
 高清频道,#genre#
 爱情喜剧,http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
@@ -89,6 +86,8 @@ CCTV-央视文化,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 精品萌宠,http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 精选影视,http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
+
+精彩频道,#genre#
 军旅剧场,http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
 军事评论,http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
 明星大片,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
@@ -100,15 +99,43 @@ CCTV-央视文化,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 中国功夫,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
 军事评论,http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
 家庭剧场,http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+睛彩竞技,http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
+睛彩广场舞,http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
+睛彩篮球,http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
+睛彩青少,http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
 
 咪咕视频,#genre#
-咪咕直播4K,http://gslbserv.itv.cmvideo.cn/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
-咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
-咪咕直播3,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
-咪咕直播4,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-咪咕直播5,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
-咪咕直播6,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
-咪咕直播7,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
-咪咕直播8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
-咪咕直播9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+晴彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕视频-4K,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
+咪咕视频-1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+咪咕视频-2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+咪咕视频-3,http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+咪咕视频-4,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+咪咕视频-5,http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+咪咕视频-6,http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
+咪咕视频-7,http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+咪咕视频-8,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+咪咕视频-9,http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+咪咕视频-10,http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+咪咕视频-11,http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+咪咕视频-12,http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
+咪咕视频-13,http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
+咪咕视频-14,http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
+咪咕视频-15,http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
+咪咕视频-16,http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
+咪咕视频-17,http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
+咪咕视频-18,http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
+咪咕视频-19,http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
+咪咕视频-20,http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
+咪咕视频-21,http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
+咪咕视频-22,http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
+咪咕视频-23,http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
+咪咕视频-24,http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
+咪咕视频-25,http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
+咪咕视频-26,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
+咪咕视频-27,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕视频-28,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕视频-29,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕视频-30,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
