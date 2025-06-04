@@ -216,6 +216,10 @@ CCTV-央视文化,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 二更,http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
 庆馀年,http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 繁花,http://ott.mobaibox.com/PLTV/1/224/3221228710/index.m3u8
+烟火人家,http://ott.mobaibox.com/PLTV/3/224/3221228610/index.m3u8
+漫长的季节,http://ott.mobaibox.com/PLTV/3/224/3221228621/index.m3u8
+猎冰,http://ott.mobaibox.com/PLTV/3/224/3221228624/index.m3u8
+永安梦,http://ott.mobaibox.com/PLTV/3/224/3221228627/index.m3u8
 家庭理财,http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
 篮球,http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
 奕坛春秋,http://ott.mobaibox.com/PLTV/3/224/3221227031/index.m3u8
