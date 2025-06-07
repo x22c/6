@@ -53,20 +53,20 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 内蒙古卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/1.m3u8
 厦门卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8
 三沙卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8
-山东教育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8
 兵团卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8
 延边卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8
 康巴卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8
 
 
 北京地方,#genre#
-北京IPTV 4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-北京IPTV 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
-北京IPTV 淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
-北京IPTV 淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
-北京IPTV 淘BABY,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
-北京IPTV 萌宠TV,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
-北京IPTV 重温经典,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
+欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
+北京 4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+北京 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
+北京 淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
+北京 淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
+北京 淘BABY,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
+北京 萌宠TV,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
+北京 重温经典,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 北京科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8
 北京体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8
 北京财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
@@ -77,7 +77,8 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8
 
 
-付费频道,#genre#
+综合频道,#genre#
+山东教育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8
 卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226511/1.m3u8
 金鹰卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8
 优漫卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226932/1.m3u8
@@ -86,13 +87,8 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 中国交通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8
 财富天下,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226575/1.m3u8
 茶频道,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8
-快乐垂钓,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8
-睛彩青少,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8
-黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
-黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
-哒啵赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8
-哒啵电竞,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8
 金鹰纪实,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
+快乐垂钓,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8
 中国教育1台,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 中国教育2台,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8
 中国教育3台,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8
@@ -100,6 +96,24 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 
 
 精彩频道,#genre#
+中国功夫,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8
+超级综艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+金牌综艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8
+炫舞未来,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8
+农业致富,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8
+军事评论,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8
+精品萌宠,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8
+潮妈辣婆,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8
+怡伴健康,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
+武搏世界,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226992/1.m3u8
+睛彩青少,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8
+黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
+黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
+哒啵赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8
+哒啵电竞,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8
+
+
+付费频道,#genre#
 超级电视剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
 超级电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8
@@ -114,16 +128,6 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 精品纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8
 超级体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 精品体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
-中国功夫,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8
-超级综艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-金牌综艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8
-炫舞未来,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8
-农业致富,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8
-军事评论,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8
-精品萌宠,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8
-潮妈辣婆,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8
-怡伴健康,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
-武搏世界,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226992/1.m3u8
 
 
 咪咕视频,#genre#
@@ -160,7 +164,6 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 咪咕视频-30,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 高清频道,#genre#
-欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 山东教育,http://39.134.64.87:6610/PLTV/88888888/224/3221225655/index.m3u8?IASHttpSessionId=
 安多卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=
 康巴卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
