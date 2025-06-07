@@ -4,6 +4,7 @@ CCTV-2 财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch0000009099000000122
 CCTV-3 综艺,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
 CCTV-4 中文国际,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8
 CCTV-5 体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
+CCTV-5+ 赛事体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-6 电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8
 CCTV-7 国防军事,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8
 CCTV-8 电视剧,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8
