@@ -1,0 +1,206 @@
+央视频道,#genre#
+CCTV-1 综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
+CCTV-2 财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
+CCTV-3 综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
+CCTV-4 中文国际,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
+CCTV-5 体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
+CCTV-5+ 体育赛事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
+CCTV-6 电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
+CCTV-7 国防军事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
+CCTV-8 电视剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
+CCTV-9 记录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8
+CCTV-9 记录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
+CCTV-10 科教,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8
+CCTV-11 戏曲,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8
+CCTV-12 社会与法,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8
+CCTV-13 新闻,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
+CCTV-14 少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
+CCTV-15 音乐,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
+CCTV-16 奥林匹克,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
+CCTV-17 农业农村,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
+
+卫视频道,#genre#
+安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
+北京卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
+浙江卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-zhejiangstv/1.m3u8
+天津卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdtianjinstv/1.m3u8
+东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
+湖南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-hunanstv/1.m3u8
+吉林卫视,http://120.210.193.151:8006/120000001002/XMTjlwshd/index.m3u8
+江苏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-jiangsustv/1.m3u8
+江西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiangxistv/1.m3u8
+辽宁卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-liaoningstv/1.m3u8
+山东卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongstv/1.m3u8
+山西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shanxistv/1.m3u8
+陕西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shanxi1stv/1.m3u8
+深圳卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdshenzhenstv/1.m3u8
+东南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dongnanstv/1.m3u8
+甘肃卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/gansustv/1.m3u8
+广东卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdguangdongstv/1.m3u8
+广西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guangxistv/1.m3u8
+贵州卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-guizhoustv/1.m3u8
+河北卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hebeistv/1.m3u8
+河南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/henanstv/1.m3u8
+黑龙江卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
+湖北卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hubeistv/1.m3u8
+内蒙古卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/neimenggustv/1.m3u8
+宁夏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ningxiastv/1.m3u8
+青海卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/qinghaistv/1.m3u8
+四川卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-sichuanstv/1.m3u8
+西藏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xizangstv/1.m3u8
+新疆卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xinjiangstv/1.m3u8
+云南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/yunnanstv/1.m3u8
+重庆卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/chongqingstv/1.m3u8
+海南卫视,http://120.210.193.151:8006/120000001002/XMThainanwshd/index.m3u8
+兵团卫视,http://120.210.193.151:8006/120000001002/XMTbtws/index.m3u8
+三沙卫视,http://120.210.193.151:8006/120000001002/XMTssws/index.m3u8
+厦门卫视,http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
+
+安徽地方,#genre#
+安徽导视,http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
+安徽公共,http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
+安徽国际,http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
+安徽影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
+安徽生活,http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
+安徽农科,http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
+安徽体育,http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
+池州新闻,http://120.210.193.151:8006/120000001002/XMTczxw/1.m3u8
+池州文教,http://120.210.193.151:8006/120000001002/XMTczwj/1.m3u8
+合肥新闻,http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
+安庆新闻,http://120.210.193.151:8006/120000001002/XMTaqxw/1.m3u8
+蚌埠新闻,http://120.210.193.151:8006/120000001002/XMTbbxw/1.m3u8
+亳州农村,http://120.210.193.151:8006/120000001002/XMTbznc/1.m3u8
+亳州新闻,http://120.210.193.151:8006/120000001002/XMTbzxw/1.m3u8
+阜阳都市,http://120.210.193.151:8006/120000001002/XMTfyds/1.m3u8
+阜阳公共,http://120.210.193.151:8006/120000001002/XMTfygg/1.m3u8
+阜阳教育,http://120.210.193.151:8006/120000001002/XMTfyjy/1.m3u8
+阜阳新闻,http://120.210.193.151:8006/120000001002/XMTfyxw/1.m3u8
+滁州新闻,http://120.210.193.151:8006/120000001002/XMTchzxw/1.m3u8
+淮北新闻,http://120.210.193.151:8006/120000001002/XMThbxw/1.m3u8
+淮南新闻,http://120.210.193.151:8006/120000001002/XMThnxw/1.m3u8
+黄山公共,http://120.210.193.151:8006/120000001002/XMThsgg/1.m3u8
+黄山新闻,http://120.210.193.151:8006/120000001002/XMThsxw/1.m3u8
+屯溪融媒,http://120.210.193.151:8006/120000001002/XMTtxrm/1.m3u8
+六安新闻,http://120.210.193.151:8006/120000001002/XMTlaxw/1.m3u8
+宿州新闻,http://120.210.193.151:8006/120000001002/XMTszxw/1.m3u8
+铜陵新闻,http://120.210.193.151:8006/120000001002/XMTtlxw/1.m3u8
+芜湖公共,http://120.210.193.151:8006/120000001002/XMTwhgg/1.m3u8
+芜湖教育,http://120.210.193.151:8006/120000001002/XMTwhjy/1.m3u8
+芜湖生活,http://120.210.193.151:8006/120000001002/XMTwhsh/1.m3u8
+芜湖新闻,http://120.210.193.151:8006/120000001002/XMTwhxxw/1.m3u8
+宣城新闻,http://120.210.193.151:8006/120000001002/XMTxcxw/1.m3u8
+马鞍山公共,http://120.210.193.151:8006/120000001002/XMTmasgg/1.m3u8
+马鞍山新闻,http://120.210.193.151:8006/120000001002/XMTmasxw/1.m3u8
+霍邱频道,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD12-576P-huoqiu/1.m3u8
+霍山新闻,http://120.210.193.151:8006/120000001002/XMTah_lahsxw/1.m3u8
+
+
+付费频道,#genre#
+CCTV-央视台球,http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
+CCTV-高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
+CCTV-电视指南,http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
+CCTV-央视精品,http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
+CCTV-女性时尚,http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
+CCTV-怀旧剧场,http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
+CCTV-风云剧场,http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
+CCTV-第一剧场,http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
+CCTV-兵器科技,http://120.210.193.151:8006/120000001002/XMTbqsd/1.m3u8
+CCTV-风云足球,http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
+CCTV-风云音乐,http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
+CCTV-世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
+
+精彩频道,#genre#
+CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
+CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
+CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
+东方财经,http://120.210.193.151:8006/120000001002/XMTdfcj/1.m3u8
+动漫秀场,http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
+七彩戏剧,http://120.210.193.151:8006/120000001002/XMTqcxj/1.m3u8
+快乐垂钓,http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8
+睛彩安徽,http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
+金色频道,http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
+足球频道,http://120.210.193.151:8006/120000001002/XMTzqpd/index.m3u8
+茶频道,http://120.210.193.151:8006/120000001002/XMTcha/1.m3u8
+梨园,http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
+文物,http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
+武术,http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
+CGTN,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-news/1.m3u8
+CGTN,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8
+CETV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
+CETV-2,http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
+CETV-4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
+
+高清频道,#genre#
+动作电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongzuody/1.m3u8
+爱情喜剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/aiqingxj/1.m3u8
+黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
+黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
+超级电视剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV08/1.m3u8
+超级电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
+超级体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV05/1.m3u8
+超级综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV03/1.m3u8
+古装剧场,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guzhuangjc/1.m3u8
+潮妈辣婆,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-1500k-720P-cmlapo/1.m3u8
+哒啵赛事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/wmyx/1.m3u8
+山东教育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongjy/1.m3u8
+武搏世界,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
+怡伴健康,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ljiankangyouyue/1.m3u8
+农业致富,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/nongyezf/1.m3u8
+
+综合频道,#genre#
+优漫卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
+炫动卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
+卡酷少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
+金鹰卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
+海豚健康,http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
+海豚少儿,http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
+海豚影视,http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
+海豚生活,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh/1.m3u8
+家庭剧场,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiatingjc/1.m3u8
+金牌综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/saishijx/1.m3u8
+惊悚悬疑,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingsongxy/1.m3u8
+精品大剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdaju/1.m3u8
+精品纪录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl/1.m3u8
+精品体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jtiyu/1.m3u8
+精品综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/mingxingdp/1.m3u8
+军旅剧场,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junlvjc/1.m3u8
+军事评论,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junshipl/1.m3u8
+
+咪咕视频,#genre#
+咪咕视频-4K,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
+咪咕视频-1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+咪咕视频-2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+咪咕视频-3,http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+咪咕视频-4,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+咪咕视频-5,http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+咪咕视频-6,http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
+咪咕视频-7,http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+咪咕视频-8,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+咪咕视频-9,http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+咪咕视频-10,http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+咪咕视频-11,http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+咪咕视频-12,http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
+咪咕视频-13,http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
+咪咕视频-14,http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
+咪咕视频-15,http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
+咪咕视频-16,http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
+咪咕视频-17,http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
+咪咕视频-18,http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
+咪咕视频-19,http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
+咪咕视频-20,http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
+咪咕视频-21,http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
+咪咕视频-22,http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
+咪咕视频-23,http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
+咪咕视频-24,http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
+咪咕视频-25,http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
+咪咕视频-26,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
+咪咕视频-27,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕视频-28,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕视频-29,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕视频-30,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕冬奥冰上,http://120.210.193.151:8006/120000001002/HD-8000k-1080P-migudongao4/1.m3u8
+咪咕冬奥雪上,http://120.210.193.151:8006/120000001002/HD-8000k-1080P-migudongao5/1.m3u8
+咪咕冬奥直击,http://120.210.193.151:8006/120000001002/HD-8000k-1080P-migudongao6/1.m3u8
+咪咕精彩足球,http://120.210.193.151:8006/120000001002/HD-8000k-1080P-miguaoyun1/1.m3u8
+咪咕综合体育,http://120.210.193.151:8006/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8
+咪咕全民热练,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8000k-1080P-quanminrl/1.m3u8
