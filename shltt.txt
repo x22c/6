@@ -53,3 +53,16 @@ CGTN,http://10.223.3.189:80/PLTV/88888888/224/3221225652/10000100000000060000000
 上海新纪实,http://8.138.7.223/tv/shtv.php?id=xjs
 上海魔都眼,http://8.138.7.223/tv/shtv.php?id=mdy
 上海乐游,http://8.138.7.223/tv/shtv.php?id=ly
+
+上海地方-2,#genre#
+上海新闻,http://live.zhongping.jsinfo.net:6060/live/program/live/xwzhhd8m/8000000/mnf.m3u8?m3u8_level=2
+上海都市,http://live.zhongping.jsinfo.net:6060/live/program/live/dshd8m/8000000/mnf.m3u8?m3u8_level=2
+第一财经,http://live.zhongping.jsinfo.net:6060/live/program/live/dycjhd8m/8000000/mnf.m3u8?m3u8_level=2
+五星体育,http://live.zhongping.jsinfo.net:6060/live/program/live/wxtyhd8m/8000000/mnf.m3u8?m3u8_level=2
+上海纪实,http://live.zhongping.jsinfo.net:6060/live/program/live/jspdhd/4000000/mnf.m3u8?m3u8_level=2
+东方影视,http://live.zhongping.jsinfo.net:6060/live/program/live/dfyshd8m/8000000/mnf.m3u8?m3u8_level=2
+上视外语,http://live.zhongping.jsinfo.net:6060/live/program/live/icshd8m/8000000/mnf.m3u8?m3u8_level=2
+七彩戏剧,http://live.zhongping.jsinfo.net:6060/live/program/live/qcxjhd8m/8000000/mnf.m3u8?m3u8_level=2
+上海教育,http://live.zhongping.jsinfo.net:6060/live/program/live/setvhd/8000000/mnf.m3u8?m3u8_level=2
+东方财经,http://live.zhongping.jsinfo.net:6060/live/program/live/dfcjhd8m/8000000/mnf.m3u8?m3u8_level=2
+
