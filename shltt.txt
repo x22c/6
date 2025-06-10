@@ -43,3 +43,20 @@ CGTN,http://10.223.3.189:80/PLTV/88888888/224/3221225652/10000100000000060000000
 贵州卫视,http://10.223.3.189:80/PLTV/88888888/224/3221225822/10000100000000060000000001128689_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EYFoF2C7H4-gxL3-_3icdPQ%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F4252663%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001128689_0%2CEND
 吉林卫视,http://10.223.3.189:80/PLTV/88888888/224/3221225886/10000100000000060000000001558313_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EcersjfO9Tqmurne3oG9zfQ%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F5000046%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001558313_0%2CEND
 海南卫视,http://10.223.3.189:80/PLTV/88888888/224/3221225821/10000100000000060000000001128688_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EVv2P1C-pDh3r-kKUhCc2Fg%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F4252684%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001128688_0%2CEND
+
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海地方",东方卫视
+http://8.138.7.223/tv/shtv.php?id=dfws
+#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海地方",上海新闻综合
+http://8.138.7.223/tv/shtv.php?id=xwzh
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海地方",第一财经
+http://8.138.7.223/tv/shtv.php?id=dycj
+#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海地方",上海都市
+http://8.138.7.223/tv/shtv.php?id=ds
+#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海地方",五星体育
+http://8.138.7.223/tv/shtv.php?id=wxty
+#EXTINF:-1,tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://epg.112114.xyz/logo/上海新纪实.png" group-title="上海地方",上海新纪实
+http://8.138.7.223/tv/shtv.php?id=xjs
+#EXTINF:-1,tvg-id="上海魔都眼" tvg-name="上海魔都眼" tvg-logo="https://epg.112114.xyz/logo/上海魔都眼.png" group-title="上海地方",上海魔都眼
+http://8.138.7.223/tv/shtv.php?id=mdy
+#EXTINF:-1,tvg-id="上海乐游" tvg-name="上海乐游" tvg-logo="https://epg.112114.xyz/logo/上海乐游.png" group-title="上海地方",上海乐游
+http://8.138.7.223/tv/shtv.php?id=ly
