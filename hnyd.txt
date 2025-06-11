@@ -38,11 +38,6 @@ CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?f
 辽宁卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8?fmt=ts2hls
 青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226971/1.m3u8?fmt=ts2hls
 山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8?fmt=ts2hls
-深圳卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?fmt=ts2hls
-四川卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226992/1.m3u8?fmt=ts2hls
-天津卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8?fmt=ts2hls
-云南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8?fmt=ts2hls
-重庆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226982/1.m3u8?fmt=ts2hls
 
 河南地方,#genre#
 河南4K试验,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226936/1.m3u8?fmt=ts2hls
