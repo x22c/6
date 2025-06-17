@@ -23,7 +23,7 @@ CGTN纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 CGTN西语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
 CGTN阿语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
 
-央视频道,#genre#
+卫视频道,#genre#
 山东卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
 浙江卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
 湖南卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
