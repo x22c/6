@@ -100,7 +100,7 @@ CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttp
 
 
 综合频道,#genre#
-虎牙-卡尔,http://live.iill.top/huya.php?id=521000
+虎牙-卡尔,http://www.52sw.top:678/play/huya.php?id=521000
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
