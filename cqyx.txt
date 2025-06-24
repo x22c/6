@@ -4,6 +4,7 @@ CCTV2财经,http://8.138.7.223/tv/cqyx2.php?id=cctv2HD
 CCTV3综艺,http://8.138.7.223/tv/cqyx2.php?id=cctv3HD
 CCTV4中文国际,http://8.138.7.223/tv/cqyx2.php?id=cctv4HD
 CCTV5体育,http://8.138.7.223/tv/cqyx2.php?id=cctv5HD
+CCTV5+赛事,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 CCTV6电影,http://8.138.7.223/tv/cqyx2.php?id=cctv6HD
 CCTV7国防军事,http://8.138.7.223/tv/cqyx2.php?id=cctv7HD
 CCTV8电视剧,http://8.138.7.223/tv/cqyx2.php?id=cctv8HD
@@ -16,11 +17,11 @@ CCTV14少儿,http://8.138.7.223/tv/cqyx2.php?id=cctvseHD
 CCTV15音乐,http://8.138.7.223/tv/cqyx2.php?id=cctv15HD
 CCTV16奥林匹克,http://8.138.7.223/tv/cqyx2.php?id=cctv16HD
 CCTV17农业农村,http://8.138.7.223/tv/cqyx2.php?id=cctv17HD
+CCTV4K超高清,http://8.138.7.223/tv/cqyx2.php?id=CCTV4K
+CCTV16 4K,http://8.138.7.223/tv/cqyx2.php?id=CCTV16_4K
 CGTN,http://8.138.7.223/tv/cqyx2.php?id=cgtnSD
 CETV-1,http://8.138.7.223/tv/cqyx2.php?id=cetv-1SD
 CETV-4,http://8.138.7.223/tv/cqyx2.php?id=cetv-4SD
-CCTV4K,http://8.138.7.223/tv/cqyx2.php?id=CCTV4K
-CCTV16,http://8.138.7.223/tv/cqyx2.php?id=CCTV16_4K
 
 卫视频道,#genre#
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?id=chongqingHD
