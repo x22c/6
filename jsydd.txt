@@ -26,9 +26,6 @@ CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 北京卫视,http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
 浙江卫视,http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
 东方卫视,http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
-凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港,http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 河南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
 山东卫视,http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
 辽宁卫视,http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
@@ -53,6 +50,10 @@ CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 新疆卫视,http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 云南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
 
+凤凰频道,#genre#
+凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港,http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 
 江苏地方,#genre#
 江苏新闻,http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
@@ -61,6 +62,11 @@ CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 江苏综艺,http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
 江苏影视,http://ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
 江苏教育,http://ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8
+江苏城市,http://ott.mobaibox.com/PLTV/*/224/3221228734/index.m3u8
+江苏影视,http://ott.mobaibox.com/PLTV/*/224/3221228728/index.m3u8
+江苏体育,http://ott.mobaibox.com/PLTV/*/224/3221228746/index.m3u8
+江苏新闻,http://ott.mobaibox.com/PLTV/*/224/3221228743/index.m3u8
+江苏教育,http://ott.mobaibox.com/PLTV/*/224/3221228769/index.m3u8
 南京新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 南京十八频道,http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
 南京教科频道,http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
@@ -224,3 +230,14 @@ CCTV-央视文化,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 奕坛春秋,http://ott.mobaibox.com/PLTV/3/224/3221227031/index.m3u8
 置业频道,http://ott.mobaibox.com/PLTV/3/224/3221227037/index.m3u8
 京视剧场,http://ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8
+
+广播频道,#genre#
+江苏文艺广播FM91.4,http://ott.mobaibox.com/PLTV/*/224/3221227987/1.m3u8
+江苏健康广播FM100.5,http://ott.mobaibox.com/PLTV/*/224/3221227952/1.m3u8
+江苏音乐台FM89.7,http://ott.mobaibox.com/PLTV/*/224/3221227949/1.m3u8
+江苏交通广播FM101.1,http://ott.mobaibox.com/PLTV/*/224/3221227937/1.m3u8
+江苏金陵之声FM99.7,http://ott.mobaibox.com/PLTV/*/224/3221227940/index.m3u8
+江苏经典音乐FM97.5,http://ott.mobaibox.com/PLTV/*/224/3221227943/index.m3u8
+江苏财经广播FM95.2,http://ott.mobaibox.com/PLTV/*/224/3221227946/index.m3u8
+江苏新闻广播FM93.7,http://ott.mobaibox.com/PLTV/*/224/3221227984/index.m3u8
+江苏故事广播FM104.9,http://ott.mobaibox.com/PLTV/*/224/3221227990/index.m3u8
