@@ -2,7 +2,6 @@
 💎内网源💎,https://my5353.com/Vhsws
 💎内网源💎,https://my5353.com/Vhsws
 
-央视频道,#genre#
 CCTV-1,http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
 CCTV-2,http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=
 CCTV-3,http://39.134.64.87:6610/PLTV/88888888/224/3221226021/index.m3u8?IASHttpSessionId=
@@ -59,6 +58,7 @@ CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttp
 延边卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226516/index.m3u8?IASHttpSessionId=
 甘肃卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226522/index.m3u8?IASHttpSessionId=
 
+
 高清频道,#genre#
 睛彩竞技,http://39.134.64.87:6610/PLTV/88888888/224/3221226124/index.m3u8?IASHttpSessionId=
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226147/index.m3u8?IASHttpSessionId=
@@ -71,6 +71,7 @@ CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttp
 超级电影,http://39.134.64.87:6610/PLTV/88888888/224/3221225717/index.m3u8?IASHttpSessionId=
 咪咕视频,http://39.134.64.87:6610/PLTV/88888888/224/3221226398/index.m3u8?IASHttpSessionId=
 纪实科教,http://39.134.64.87:6610/PLTV/88888888/224/3221225729/index.m3u8?IASHttpSessionId=
+金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 
 
 付费频道,#genre#
@@ -78,20 +79,21 @@ CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttp
 哈哈炫动,http://39.134.64.87:6610/PLTV/88888888/224/3221225657/index.m3u8?IASHttpSessionId=
 明星大片,http://39.134.64.87:6610/PLTV/88888888/224/3221225664/index.m3u8?IASHttpSessionId=
 惊悚悬疑,http://39.134.64.87:6610/PLTV/88888888/224/3221225665/index.m3u8?IASHttpSessionId=
-军事评论,http://39.134.64.87:6610/PLTV/88888888/224/3221225668/index.m3u8?IASHttpSessionId=
 精品大剧,http://39.134.64.87:6610/PLTV/88888888/224/3221225670/index.m3u8?IASHttpSessionId=
 海外剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225671/index.m3u8?IASHttpSessionId=
 精品纪录,http://39.134.64.87:6610/PLTV/88888888/224/3221225672/index.m3u8?IASHttpSessionId=
-咪咕视频-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕视频-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕视频-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕视频-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+军事评论,http://39.134.64.87:6610/PLTV/88888888/224/3221225668/index.m3u8?IASHttpSessionId=
+家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 
 
 精彩频道,#genre#
 精品体育,http://39.134.64.87:6610/PLTV/88888888/224/3221225674/index.m3u8?IASHttpSessionId=
 哒啵电竞,http://39.134.64.87:6610/PLTV/88888888/224/3221225675/index.m3u8?IASHttpSessionId=
 军旅剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225676/index.m3u8?IASHttpSessionId=
+军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 家庭剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225677/index.m3u8?IASHttpSessionId=
 武搏世界,http://39.134.64.87:6610/PLTV/88888888/224/3221225680/index.m3u8?IASHttpSessionId=
 农业致富,http://39.134.64.87:6610/PLTV/88888888/224/3221225683/index.m3u8?IASHttpSessionId=
@@ -99,11 +101,13 @@ CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttp
 东北热剧,http://39.134.64.87:6610/PLTV/88888888/224/3221225741/index.m3u8?IASHttpSessionId=
 欢乐剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225742/index.m3u8?IASHttpSessionId=
 精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3u8?IASHttpSessionId=
+动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 
 
 综合频道,#genre#
+虎牙-卡尔,http://live.iill.top/huya.php?id=521000
 虎牙-卡尔,http://www.52sw.top:678/play/huya.php?id=521000
-虎牙-卡尔,http://cdn.jdshipin.com:8880/huya.php?id=521000
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
@@ -117,31 +121,55 @@ CETV4,http://39.134.64.87:6610/PLTV/88888888/224/3221225783/index.m3u8?IASHttpSe
 怡伴健康,http://39.134.64.87:6610/PLTV/88888888/224/3221225673/index.m3u8?IASHttpSessionId=
 中国功夫,http://39.134.64.87:6610/PLTV/88888888/224/3221225681/index.m3u8?IASHttpSessionId=
 
-咪咕视频,#genre#
-咪咕视频-4K,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
-咪咕视频-1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-咪咕视频-2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-咪咕视频-3,http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
-咪咕视频-4,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
-咪咕视频-5,http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
-咪咕视频-6,http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
-咪咕视频-7,http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
-咪咕视频-8,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
-咪咕视频-9,http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
-咪咕视频-10,http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
-咪咕视频-11,http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
-咪咕视频-12,http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
-咪咕视频-13,http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
-咪咕视频-14,http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
-咪咕视频-15,http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
-咪咕视频-16,http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
-咪咕视频-17,http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
-咪咕视频-18,http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
-咪咕视频-19,http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
-咪咕视频-20,http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
-咪咕视频-21,http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
-咪咕视频-22,http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
-咪咕视频-23,http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
-咪咕视频-24,http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
-咪咕视频-25,http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
-咪咕视频-26,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
+
+咪咕视频-①,#genre#
+咪咕视频4K-1,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
+咪咕视频4K-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕视频-1,http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
+咪咕视频-2,http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
+咪咕视频-3,http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
+咪咕视频-4,http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
+咪咕视频-5,http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
+咪咕视频-6,http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
+咪咕视频-7,http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
+咪咕视频-8,http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
+咪咕视频-9,http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
+咪咕视频-10,http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
+咪咕视频-11,http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
+咪咕视频-12,http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
+咪咕视频-13,http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
+咪咕视频-14,http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
+咪咕视频-15,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
+咪咕视频-16,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+咪咕视频-17,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+咪咕视频-18,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+咪咕视频-19,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+咪咕视频-20,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+咪咕视频-21,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+咪咕视频-22,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+咪咕视频-23,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+
+
+咪咕视频-②,#genre#
+咪咕视频-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+咪咕视频-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+咪咕视频-3,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+咪咕视频-4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕视频-5,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕视频-6,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕视频-7,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+咪咕视频-8,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+咪咕视频-9,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+咪咕视频-10,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+咪咕视频-11,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+咪咕视频-12,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+咪咕视频-13,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+咪咕视频-14,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+咪咕视频-15,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕视频-16,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕视频-17,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+咪咕视频-18,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕视频-19,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+咪咕视频-20,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+咪咕视频-21,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕视频-22,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
