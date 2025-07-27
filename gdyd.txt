@@ -56,7 +56,7 @@ CCTV-17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.
 北京体育休闲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226658/1.m3u8
 北京体育休闲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8
 
-咪咕视频-,#genre#
+咪咕视频-①,#genre#
 晴彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226870/1.m3u8
 晴彩篮球,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226952/1.m3u8
 晴彩青少,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226965/1.m3u8
@@ -108,6 +108,30 @@ CCTV-17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.
 咪咕视频-44,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227006/1.m3u8
 咪咕视频-45,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227009/1.m3u8
 咪咕视频-46,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227012/1.m3u8
+
+咪咕视频-②,#genre#
+咪咕视频-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+咪咕视频-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+咪咕视频-3,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+咪咕视频-4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕视频-5,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕视频-6,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕视频-7,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+咪咕视频-8,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+咪咕视频-9,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+咪咕视频-10,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+咪咕视频-11,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+咪咕视频-12,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+咪咕视频-13,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+咪咕视频-14,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+咪咕视频-15,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕视频-16,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕视频-17,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+咪咕视频-18,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕视频-19,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+咪咕视频-20,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+咪咕视频-21,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕视频-22,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
 
 高清频道,#genre#
 山东教育,http://39.134.64.87:6610/PLTV/88888888/224/3221225655/index.m3u8?IASHttpSessionId=
