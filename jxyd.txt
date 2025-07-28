@@ -153,7 +153,7 @@ CGTN纪录,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/inde
 精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3u8?IASHttpSessionId=
 怡伴健康,http://39.134.64.87:6610/PLTV/88888888/224/3221225673/index.m3u8?IASHttpSessionId=
 
-咪咕视频-①,#genre#
+咪咕视频①,#genre#
 咪咕视频4K-1,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 咪咕视频4K-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 咪咕视频-1,http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
@@ -181,7 +181,7 @@ CGTN纪录,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/inde
 咪咕视频-23,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
 
 
-咪咕视频-②,#genre#
+咪咕视频②,#genre#
 咪咕视频-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 咪咕视频-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
 咪咕视频-3,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
