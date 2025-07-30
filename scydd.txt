@@ -23,24 +23,17 @@ CCTV-16 奥林匹克,http://live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=1&U=
 CCTV-16 奥林匹克 4K,http://live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CCTV-17 农业农村,http://live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CCTV-4K 超高清,http://live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CETV-1,http://live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CETV-4,http://live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CGTN-法语,http://live2.rxip.sc96655.com/live/fy_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CGTN-西语,http://live2.rxip.sc96655.com/live/xbyy_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CGTN-英语,http://live2.rxip.sc96655.com/live/CGTN_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-
+超高清电影 4K,http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+欢笑剧场 4K,http://live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
 卫视频道,#genre#
-四川卫视,http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-浙江卫视,http://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-湖南卫视,http://live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-吉林卫视,http://live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-江苏卫视,http://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-东方卫视,http://live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-天津卫视,http://live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+凤凰中文,http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+凤凰资讯,http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+安徽卫视,http://live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 北京卫视,http://live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+兵团卫视,http://live2.rxip.sc96655.com/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 重庆卫视,http://live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+东方卫视,http://live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 东南卫视,http://live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 甘肃卫视,http://live2.rxip.sc96655.com/live/gsws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 广东卫视,http://live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
@@ -50,27 +43,27 @@ CGTN-英语,http://live2.rxip.sc96655.com/live/CGTN_4000.m3u8?E=1&U=1&A=1&K=1&P=
 河南卫视,http://live2.rxip.sc96655.com/live/hnws35_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 黑龙江卫视,http://live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 湖北卫视,http://live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-安徽卫视,http://live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+湖南卫视,http://live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+吉林卫视,http://live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+江苏卫视,http://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 江西卫视,http://live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 康巴卫视,http://live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 辽宁卫视,http://live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 内蒙古卫视,http://live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-山东教育,http://live2.rxip.sc96655.com/live/sdjy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+山东教育卫视,http://live2.rxip.sc96655.com/live/sdjy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 山东卫视,http://live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 山西卫视,http://live2.rxip.sc96655.com/live/sxws42_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 陕西卫视,http://live2.rxip.sc96655.com/live/sxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 深圳卫视,http://live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-兵团卫视,http://live2.rxip.sc96655.com/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四川卫视,http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+天津卫视,http://live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 西藏卫视,http://live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 云南卫视,http://live2.rxip.sc96655.com/live/ynws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+浙江卫视,http://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
-凤凰频道,#genre#
-凤凰中文,http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-凤凰资讯,http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-
-付费频道,#genre#
-超清电影 4K,http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-欢笑剧场 4K,http://live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+精彩频道,#genre#
+CETV-1,http://live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CETV-4,http://live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CBN风尚生活,http://live2.rxip.sc96655.com/live/fssh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CBN每日影院,http://live2.rxip.sc96655.com/live/mryy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CBN幸福剧场,http://live2.rxip.sc96655.com/live/xfjc_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
@@ -85,13 +78,13 @@ CHC家庭影院,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E
 纪实科教,http://live2.rxip.sc96655.com/live/bjjs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 嘉佳卡通,http://live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 家庭理财,http://live2.rxip.sc96655.com/live/jtlc_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-财富天下,http://live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+江苏财富天下,http://live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 金鹰纪实,http://live2.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 金鹰卡通,http://live2.rxip.sc96655.com/live/jykt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-劲爆体育,http://live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-聚鲨精选,http://live2.rxip.sc96655.com/live/jshqjxHD_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
-付费频道,#genre#
+家庭频道,#genre#
+劲爆体育,http://live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+聚鲨环球精选,http://live2.rxip.sc96655.com/live/jshqjxHD_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 卡酷少儿,http://live2.rxip.sc96655.com/live/kkkt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 快乐垂钓,http://live2.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 乐游,http://live2.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
@@ -114,6 +107,17 @@ CHC家庭影院,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E
 川网导视,http://live2.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 精品导视,http://live2.rxip.sc96655.com/live/jpdsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 沙湾融媒,http://live2.rxip.sc96655.com/live/swxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CGTN-法语,http://live2.rxip.sc96655.com/live/fy_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CGTN-西语,http://live2.rxip.sc96655.com/live/xbyy_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CGTN-英语,http://live2.rxip.sc96655.com/live/CGTN_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+风尚购物,http://live2.rxip.sc96655.com/live/fsgw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+家家购物,http://live2.rxip.sc96655.com/live/jjgw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+家有购物,http://live2.rxip.sc96655.com/live/jygw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+央广购物,http://live2.rxip.sc96655.com/live/yggwgq_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+优购物,http://live2.rxip.sc96655.com/live/ygw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
+
 
 四川地方,#genre#
 四川文化旅游,http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
@@ -327,8 +331,6 @@ CHC家庭影院,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E
 
 
 综合频道,#genre#
-虎牙-卡尔,http://live.iill.top/huya.php?id=521000
-虎牙-卡尔,http://www.52sw.top:678/play/huya.php?id=521000
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
