@@ -126,9 +126,6 @@ CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 
 
 付费频道,#genre#
-4K UHD,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-江苏4K修复,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 CCTV-央视台球,http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
 CCTV-兵器科技,http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
 CCTV-第一剧场,http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
@@ -141,13 +138,12 @@ CCTV-高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 CCTV-怀旧剧场,http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
 CCTV-世界地理,http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
 CCTV-央视文化,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
-北京纪实科教,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+CCTV-纪实科教,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 
 高清频道,#genre#
-爱情喜剧,http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-潮妈辣婆,http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-家庭剧场,http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+4K UHD,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+江苏4K修复,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 古装剧场,http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
 海外剧场,http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
 金牌综艺,http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
@@ -158,13 +154,23 @@ CCTV-央视文化,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 精选影视,http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 
+综合频道,#genre#
+爱情喜剧,http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
+潮妈辣婆,http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+明星大片,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+农业致富,http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+热播精选,http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
+家庭理财,http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
+篮球频道,http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
+奕坛春秋,http://ott.mobaibox.com/PLTV/3/224/3221227031/index.m3u8
+置业频道,http://ott.mobaibox.com/PLTV/3/224/3221227037/index.m3u8
+京视剧场,http://ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8
+家庭剧场,http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
 
 精彩频道,#genre#
 军旅剧场,http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
 军事评论,http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-明星大片,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-农业致富,http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-热播精选,http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
 武搏世界,http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 炫舞未来,http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 怡伴健康,http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
@@ -189,17 +195,12 @@ CCTV-央视文化,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 熊出没,http://ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8
 超级飞侠,http://ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8
 二更,http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
-庆馀年,http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
+庆余年,http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 繁花,http://ott.mobaibox.com/PLTV/1/224/3221228710/index.m3u8
 烟火人家,http://ott.mobaibox.com/PLTV/3/224/3221228610/index.m3u8
 漫长的季节,http://ott.mobaibox.com/PLTV/3/224/3221228621/index.m3u8
 猎冰,http://ott.mobaibox.com/PLTV/3/224/3221228624/index.m3u8
 永安梦,http://ott.mobaibox.com/PLTV/3/224/3221228627/index.m3u8
-家庭理财,http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
-篮球,http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
-奕坛春秋,http://ott.mobaibox.com/PLTV/3/224/3221227031/index.m3u8
-置业频道,http://ott.mobaibox.com/PLTV/3/224/3221227037/index.m3u8
-京视剧场,http://ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8
 
 广播频道,#genre#
 江苏文艺广播FM91.4,http://ott.mobaibox.com/PLTV/*/224/3221227987/1.m3u8
@@ -211,29 +212,3 @@ CCTV-央视文化,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 江苏财经广播FM95.2,http://ott.mobaibox.com/PLTV/*/224/3221227946/index.m3u8
 江苏新闻广播FM93.7,http://ott.mobaibox.com/PLTV/*/224/3221227984/index.m3u8
 江苏故事广播FM104.9,http://ott.mobaibox.com/PLTV/*/224/3221227990/index.m3u8
-
-咪咕视频,#genre#
-咪咕视频-4K,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-咪咕视频-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-咪咕视频-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-咪咕视频-3,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-咪咕视频-4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-咪咕视频-5,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-咪咕视频-6,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-咪咕视频-7,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-咪咕视频-8,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-咪咕视频-9,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-咪咕视频-10,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-咪咕视频-11,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-咪咕视频-12,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-咪咕视频-13,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-咪咕视频-14,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-咪咕视频-15,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-咪咕视频-16,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-咪咕视频-17,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-咪咕视频-18,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-咪咕视频-19,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-咪咕视频-20,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-咪咕视频-21,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-咪咕视频-22,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-咪咕视频-23,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
