@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://chuxinya.top/f/D97Jf3/2222d.png" group-title="💎内网源💎",💎内网源💎
-http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
+http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://chuxinya.top/f/D97Jf3/2222d.png" group-title="💎内网源💎",💎内网源💎
-http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
+http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视频道",CCTV-1
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视频道",CCTV-2
@@ -43,7 +43,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视频道",CCTV-8K
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-
 
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8
@@ -102,12 +101,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视频道",云南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
 
-
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰频道",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港频道",凤凰中文
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰频道",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港频道",凤凰资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="凤凰频道",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港频道",凤凰香港
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 
 #EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://epg.112114.xyz/logo/江苏新闻.png" group-title="江苏地方",江苏新闻
@@ -237,13 +235,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221226392/index.m3u8
 #EXTINF:-1,tvg-id="仪征电视台" tvg-name="仪征电视台" tvg-logo="https://epg.112114.xyz/logo/仪征电视台.png" group-title="江苏地方",仪征电视台
 http://ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8
 
-
-#EXTINF:-1,tvg-id="4K UHD" tvg-name="4K UHD" tvg-logo="https://epg.112114.xyz/logo/4KU.png" group-title="付费频道",4K UHD
-http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1,tvg-id="江苏4K修复" tvg-name="江苏4K修复" tvg-logo="https://epg.112114.xyz/logo/江苏4K修复.png" group-title="付费频道",江苏4K修复
-http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1,tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://epg.112114.xyz/logo/江苏8K测试.png" group-title="付费频道",江苏8K测试
-http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTM3U
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="付费频道",CCTV-央视台球
 http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="付费频道",CCTV-兵器科技
@@ -268,18 +260,15 @@ http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
 #EXTINF:-1,tvg-id="CCTV-央视文化" tvg-name="CCTV-央视文化" tvg-logo="https://epg.112114.xyz/logo/CCTV央视文化.png" group-title="付费频道",CCTV-央视文化
 http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="付费频道",北京纪实科教
+#EXTINF:-1,tvg-id="CCTV-纪实科教" tvg-name="CCTV-纪实科教" tvg-logo="https://epg.112114.xyz/logo/CCTV纪实科教.png" group-title="付费频道",CCTV-纪实科教
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 
-
-#EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="高清频道",爱情喜剧
-http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="高清频道",潮妈辣婆
-http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="高清频道",动作电影
-http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="高清频道",家庭剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1,tvg-id="4K UHD" tvg-name="4K UHD" tvg-logo="https://epg.112114.xyz/logo/4KU.png" group-title="高清频道",4K UHD
+http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1,tvg-id="江苏4K修复" tvg-name="江苏4K修复" tvg-logo="https://epg.112114.xyz/logo/江苏4K修复.png" group-title="高清频道",江苏4K修复
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1,tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://epg.112114.xyz/logo/江苏8K测试.png" group-title="高清频道",江苏8K测试
+http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV古装剧场.png" group-title="高清频道",古装剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
 #EXTINF:-1,tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://epg.112114.xyz/logo/海外剧场.png" group-title="高清频道",海外剧场
@@ -299,17 +288,35 @@ http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1,tvg-id="精选影视" tvg-name="精选影视" tvg-logo="https://epg.112114.xyz/logo/精选影视.png" group-title="高清频道",精选影视
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 
+#EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="综合频道",爱情喜剧
+http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="综合频道",潮妈辣婆
+http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="综合频道",动作电影
+http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1,tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.112114.xyz/logo/明星大片.png" group-title="综合频道",明星大片
+http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://epg.112114.xyz/logo/NEWTV农业致富.png" group-title="综合频道",农业致富
+http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+#EXTINF:-1,tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://epg.112114.xyz/logo/NEWTV热播精选.png" group-title="综合频道",热播精选
+http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
+#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="综合频道",家庭理财
+http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
+#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="综合频道",篮球频道
+http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
+#EXTINF:-1,tvg-id="奕坛春秋" tvg-name="奕坛春秋" tvg-logo="https://epg.112114.xyz/logo/奕坛春秋.png" group-title="综合频道",奕坛春秋
+http://ott.mobaibox.com/PLTV/3/224/3221227031/index.m3u8
+#EXTINF:-1,tvg-id="置业频道" tvg-name="置业频道" tvg-logo="https://epg.112114.xyz/logo/置业.png" group-title="综合频道",置业频道
+http://ott.mobaibox.com/PLTV/3/224/3221227037/index.m3u8
+#EXTINF:-1,tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://epg.112114.xyz/logo/京视剧场.png" group-title="综合频道",京视剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8
+#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="综合频道",家庭剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
 
 #EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="精彩频道",军旅剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://epg.112114.xyz/logo/NEWTV军事评论.png" group-title="精彩频道",军事评论
 http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1,tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.112114.xyz/logo/明星大片.png" group-title="精彩频道",明星大片
-http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://epg.112114.xyz/logo/NEWTV农业致富.png" group-title="精彩频道",农业致富
-http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1,tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://epg.112114.xyz/logo/NEWTV热播精选.png" group-title="精彩频道",热播精选
-http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV武搏世界" tvg-name="NEWTV武搏世界" tvg-logo="https://epg.112114.xyz/logo/NEWTV武搏世界.png" group-title="精彩频道",武搏世界
 http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://epg.112114.xyz/logo/NEWTV炫舞未来.png" group-title="精彩频道",炫舞未来
@@ -355,7 +362,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8
 #EXTINF:-1,tvg-id="二更" tvg-name="二更" tvg-logo="https://epg.112114.xyz/logo/二更.png" group-title="影视轮播",二更
 http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
-#EXTINF:-1,tvg-id="庆馀年" tvg-name="庆馀年" tvg-logo="https://epg.112114.xyz/logo/庆馀年.png" group-title="影视轮播",庆馀年
+#EXTINF:-1,tvg-id="庆余年" tvg-name="庆余年" tvg-logo="https://epg.112114.xyz/logo/庆余年.png" group-title="影视轮播",庆余年
 http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 #EXTINF:-1,tvg-id="繁花" tvg-name="繁花" tvg-logo="https://epg.112114.xyz/logo/繁花.png" group-title="影视轮播",繁花
 http://ott.mobaibox.com/PLTV/1/224/3221228710/index.m3u8
@@ -367,16 +374,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228621/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228624/index.m3u8
 #EXTINF:-1,tvg-id="永安梦" tvg-name="永安梦" tvg-logo="https://epg.112114.xyz/logo/永安梦.png" group-title="影视轮播",永安梦
 http://ott.mobaibox.com/PLTV/3/224/3221228627/index.m3u8
-#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="影视轮播",家庭理财
-http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
-#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="影视轮播",篮球
-http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
-#EXTINF:-1,tvg-id="奕坛春秋" tvg-name="奕坛春秋" tvg-logo="https://epg.112114.xyz/logo/奕坛春秋.png" group-title="影视轮播",奕坛春秋
-http://ott.mobaibox.com/PLTV/3/224/3221227031/index.m3u8
-#EXTINF:-1,tvg-id="置业频道" tvg-name="置业频道" tvg-logo="https://epg.112114.xyz/logo/置业.png" group-title="影视轮播",置业频道
-http://ott.mobaibox.com/PLTV/3/224/3221227037/index.m3u8
-#EXTINF:-1,tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://epg.112114.xyz/logo/京视剧场.png" group-title="影视轮播",京视剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8
 
 #EXTINF:-1,tvg-id="江苏文艺广播FM91.4" tvg-name="江苏文艺广播FM91.4" tvg-logo="https://epg.112114.xyz/logo/江苏文艺广播FM91.4.png" group-title="广播频道",江苏文艺广播FM91.4
 http://ott.mobaibox.com/PLTV/*/224/3221227987/1.m3u8
@@ -396,50 +393,3 @@ http://ott.mobaibox.com/PLTV/*/224/3221227946/index.m3u8
 http://ott.mobaibox.com/PLTV/*/224/3221227984/index.m3u8
 #EXTINF:-1,tvg-id="江苏故事广播FM104.9" tvg-name="江苏故事广播FM104.9" tvg-logo="https://epg.112114.xyz/logo/江苏故事广播FM.9.png" group-title="广播频道",江苏故事广播FM104.9
 http://ott.mobaibox.com/PLTV/*/224/3221227990/index.m3u8
-
-#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-4K
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-1" tvg-name="咪咕视频-1" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-1
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-2" tvg-name="咪咕视频-2" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-2
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-3" tvg-name="咪咕视频-3" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-3
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-4" tvg-name="咪咕视频-4" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-4
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-5" tvg-name="咪咕视频-5" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-5
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-6" tvg-name="咪咕视频-6" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-6
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-7" tvg-name="咪咕视频-7" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-7
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-8" tvg-name="咪咕视频-8" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-8
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-9" tvg-name="咪咕视频-9" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-9
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-10" tvg-name="咪咕视频-10" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-10
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-11" tvg-name="咪咕视频-11" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-11
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-12" tvg-name="咪咕视频-12" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-12
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-13" tvg-name="咪咕视频-13" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-13
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-14" tvg-name="咪咕视频-14" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-14
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-15" tvg-name="咪咕视频-15" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-15
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-16" tvg-name="咪咕视频-16" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-16
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-17" tvg-name="咪咕视频-17" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-17
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-18" tvg-name="咪咕视频-18" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-18
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-19" tvg-name="咪咕视频-19" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-19
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-20" tvg-name="咪咕视频-20" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-20
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-21" tvg-name="咪咕视频-21" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-21
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="咪咕视频-22" tvg-name="咪咕视频-22" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-22
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
