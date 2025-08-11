@@ -1,0 +1,261 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视频道",CCTV-1
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视频道",CCTV-2
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视频道",CCTV-3
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视频道",CCTV-4
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视频道",CCTV-5
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227218/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视频道",CCTV-5+
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视频道",CCTV-6
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227221/index.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视频道",CCTV-7
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226175/index.m3u8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视频道",CCTV-8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227325/index.m3u8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视频道",CCTV-9
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226174/index.m3u8
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视频道",CCTV-10
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226184/index.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视频道",CCTV-11
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226753/index.m3u8
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视频道",CCTV-12
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226183/index.m3u8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视频道",CCTV-13
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226729/index.m3u8
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视频道",CCTV-14
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视频道",CCTV-15
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226796/index.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视频道",CCTV-16
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视频道",CCTV-17
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226841/index.m3u8
+
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226195/index.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226134/index.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226187/index.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226144/index.m3u8
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227163/index.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226160/index.m3u8
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226788/index.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226739/index.m3u8
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视频道",东南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226784/index.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226167/index.m3u8
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视频道",广西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226830/index.m3u8
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226145/index.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226705/index.m3u8
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226136/index.m3u8
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226728/index.m3u8
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226742/index.m3u8
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226874/index.m3u8
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视频道",海南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226801/index.m3u8
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视频道",河北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226774/index.m3u8
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视频道",河南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226791/index.m3u8
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226816/index.m3u8
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226737/index.m3u8
+
+#EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png" group-title="辽宁地方",辽宁都市
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
+#EXTINF:-1,tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://epg.112114.xyz/logo/辽宁北方.png" group-title="辽宁地方",辽宁北方
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
+#EXTINF:-1,tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://epg.112114.xyz/logo/辽宁公共.png" group-title="辽宁地方",辽宁公共
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
+#EXTINF:-1,tvg-id="辽宁教育" tvg-name="辽宁教育" tvg-logo="https://epg.112114.xyz/logo/辽宁教育.png" group-title="辽宁地方",辽宁教育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
+#EXTINF:-1,tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://epg.112114.xyz/logo/辽宁经济.png" group-title="辽宁地方",辽宁经济
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
+#EXTINF:-1,tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://epg.112114.xyz/logo/辽宁生活.png" group-title="辽宁地方",辽宁生活
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
+#EXTINF:-1,tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://epg.112114.xyz/logo/辽宁影视剧.png" group-title="辽宁地方",辽宁影视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
+#EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁地方",辽宁体育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
+#EXTINF:-1,tvg-id="辽宁宜家" tvg-name="辽宁宜家" tvg-logo="https://epg.112114.xyz/logo/辽宁宜家.png" group-title="辽宁地方",辽宁宜家
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8
+#EXTINF:-1,tvg-id="辽宁电视" tvg-name="辽宁电视" tvg-logo="https://epg.112114.xyz/logo/辽宁电视.png" group-title="辽宁地方",辽宁电视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
+#EXTINF:-1,tvg-id="沈阳新闻" tvg-name="沈阳新闻" tvg-logo="https://epg.112114.xyz/logo/沈阳新闻.png" group-title="辽宁地方",沈阳新闻
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226895/index.m3u8
+#EXTINF:-1,tvg-id="阜新综合" tvg-name="阜新综合" tvg-logo="https://epg.112114.xyz/logo/阜新综合.png" group-title="辽宁地方",阜新综合
+http://hwottcdn.ln.chinamobile.com:80/PLTV/88888890/224/3221227407/index.m3u8
+#EXTINF:-1,tvg-id="阜新教育" tvg-name="阜新教育" tvg-logo="https://epg.112114.xyz/logo/阜新教育.png" group-title="辽宁地方",阜新教育
+http://hwottcdn.ln.chinamobile.com:80/PLTV/88888890/224/3221227498/index.m3u8
+#EXTINF:-1,tvg-id="盘锦新闻" tvg-name="盘锦新闻" tvg-logo="https://epg.112114.xyz/logo/盘锦新闻.png" group-title="辽宁地方",盘锦新闻
+http://hwottcdn.ln.chinamobile.com:80/PLTV/88888890/224/3221227529/index.m3u8
+#EXTINF:-1,tvg-id="盘锦都市" tvg-name="盘锦都市" tvg-logo="https://epg.112114.xyz/logo/盘锦都市.png" group-title="辽宁地方",盘锦都市
+http://hwottcdn.ln.chinamobile.com:80/PLTV/88888890/224/3221227495/index.m3u8
+
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="付费频道",CCTV-兵器科技
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227453/index.m3u8
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="付费频道",CCTV-第一剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8
+#EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="付费频道",CCTV-电视指南
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227374/index.m3u8
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="付费频道",CCTV-风云剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="付费频道",CCTV-风云音乐
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227502/index.m3u8
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="付费频道",CCTV-风云足球
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227377/index.m3u8
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="付费频道",CCTV-高尔夫网球
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227496/index.m3u8
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="付费频道",CCTV-怀旧剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227499/index.m3u8
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="付费频道",CCTV-女性时尚
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227508/index.m3u8
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="付费频道",CCTV-世界地理
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227450/index.m3u8
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="付费频道",CCTV-央视台球
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227380/index.m3u8
+#EXTINF:-1,tvg-id="CCTV-央视文化" tvg-name="CCTV-央视文化" tvg-logo="https://epg.112114.xyz/logo/CCTV央视文化.png" group-title="付费频道",CCTV-央视文化
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505/index.m3u8
+
+#EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="精彩频道",北京科教
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8
+#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="精彩频道",家庭理财
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="精彩频道",金鹰纪实
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226714/index.m3u8
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="精彩频道",金鹰卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8
+#EXTINF:-1,tvg-id="沈阳新闻" tvg-name="沈阳新闻" tvg-logo="https://epg.112114.xyz/logo/沈阳新闻.png" group-title="精彩频道",沈阳新闻
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226895/index.m3u8
+#EXTINF:-1,tvg-id="盘锦新闻" tvg-name="盘锦新闻" tvg-logo="https://epg.112114.xyz/logo/盘锦新闻.png" group-title="精彩频道",盘锦新闻
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227529/index.m3u8
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="精彩频道",新动漫
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
+#EXTINF:-1,tvg-id="CBA台" tvg-name="CBA台" tvg-logo="https://epg.112114.xyz/logo/CBA台.png" group-title="精彩频道",CBA台
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="精彩频道",茶频道
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227371/index.m3u8
+#EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://epg.112114.xyz/logo/国学.png" group-title="精彩频道",国学频道
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227435/index.m3u8
+
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="高清频道",CHC动作电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="高清频道",CHC家庭影院
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="高清频道",CHC影迷电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="高清频道",快乐垂钓
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="高清频道",梨园频道
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227362/index.m3u8
+#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="高清频道",书画频道
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227493/index.m3u8
+#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="高清频道",文物宝库
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227359/index.m3u8
+#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="高清频道",武术世界
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227487/index.m3u8
+
+#EXTINF:-1,tvg-id="咪咕视频-1" tvg-name="咪咕视频-1" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-1
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227678/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-2" tvg-name="咪咕视频-2" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-2
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227827/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-3" tvg-name="咪咕视频-3" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-3
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227831/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-4" tvg-name="咪咕视频-4" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-4
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227839/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-5" tvg-name="咪咕视频-5" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-5
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227843/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-6" tvg-name="咪咕视频-6" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-6
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227847/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-7" tvg-name="咪咕视频-7" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-7
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227851/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-8" tvg-name="咪咕视频-8" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-8
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227855/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-9" tvg-name="咪咕视频-9" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-9
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227870/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-10" tvg-name="咪咕视频-10" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-10
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227874/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-11" tvg-name="咪咕视频-11" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-11
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227877/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-12" tvg-name="咪咕视频-12" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-12
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227875/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-13" tvg-name="咪咕视频-13" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-13
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227878/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-14" tvg-name="咪咕视频-14" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-14
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227884/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-15" tvg-name="咪咕视频-15" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-15
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227885/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-16" tvg-name="咪咕视频-16" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-16
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227882/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-17" tvg-name="咪咕视频-17" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-17
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227886/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-18" tvg-name="咪咕视频-18" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-18
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227889/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-19" tvg-name="咪咕视频-19" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-19
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227892/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-20" tvg-name="咪咕视频-20" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-20
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227888/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-21" tvg-name="咪咕视频-21" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-21
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227893/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-22" tvg-name="咪咕视频-22" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-22
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227897/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-23" tvg-name="咪咕视频-23" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-23
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227896/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-24" tvg-name="咪咕视频-24" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-24
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227898/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-25" tvg-name="咪咕视频-25" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-25
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227900/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-26" tvg-name="咪咕视频-26" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-26
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227905/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-27" tvg-name="咪咕视频-27" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-27
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227904/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-28" tvg-name="咪咕视频-28" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-28
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227901/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-29" tvg-name="咪咕视频-29" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-29
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227912/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-30" tvg-name="咪咕视频-30" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-30
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227908/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-31" tvg-name="咪咕视频-31" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-31
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227922/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-32" tvg-name="咪咕视频-32" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-32
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227930/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-33" tvg-name="咪咕视频-33" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-33
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227926/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-34" tvg-name="咪咕视频-34" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-34
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227934/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-35" tvg-name="咪咕视频-35" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-35
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227933/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-36" tvg-name="咪咕视频-36" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-36
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227937/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-37" tvg-name="咪咕视频-37" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-37
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227936/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-38" tvg-name="咪咕视频-38" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-38
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227940/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-39" tvg-name="咪咕视频-39" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-39
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227944/1.m3u8?HlsProfileId=
+#EXTINF:-1,tvg-id="咪咕视频-40" tvg-name="咪咕视频-40" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频-40
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227656/1.m3u8?HlsProfileId=
