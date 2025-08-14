@@ -1,0 +1,319 @@
+#EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV-1
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/69958_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV-2
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/70018_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道",CCTV-3
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21072816504132734115.rsc/91877_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道",CCTV-4
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch17121814361050007455.rsc/75843_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV-5
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch21072816512692879794.rsc/91882_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视频道",CCTV-5+
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch11061217321508656858.rsc/70007_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道",CCTV-6
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.rsc/91842_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道",CCTV-7
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/69960_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道",CCTV-8
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/91850_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道",CCTV-9
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/70042_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道",CCTV-10
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/69941_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道",CCTV-11
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.rsc/70045_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道",CCTV-12
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15111015571407754299.rsc/70056_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视频道",CCTV-13
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050914361303395989.rsc/69923_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道",CCTV-14
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/69975_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道",CCTV-15
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/70037_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV-17
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch19073116233495000222.rsc/85717_Uni.sdp
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视频道",CCTV-4K
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99912_Uni.sdp
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道",山东卫视
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.rsc/70010_Uni.sdp
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道",湖南卫视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch12051116352384581471.rsc/70069_Uni.sdp
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch12051116365437815794.rsc/69968_Uni.sdp
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15050917541521964962.rsc/69949_Uni.sdp
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15050917541568689826.rsc/69963_Uni.sdp
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch12051116384379542816.rsc/69997_Uni.sdp
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视频道",安徽卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch15050917541532308683.rsc/70014_Uni.sdp
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050917541756096231.rsc/69996_Uni.sdp
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视频道",深圳卫视
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12051116392957055081.rsc/70071_Uni.sdp
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视频道",东南卫视
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch17082318094203998689.rsc/71682_Uni.sdp
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch15050917541519800547.rsc/69933_Uni.sdp
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道",广东卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch15050917541650823873.rsc/69978_Uni.sdp
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch12051116400952898093.rsc/70052_Uni.sdp
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视频道",贵州卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17121814402415050847.rsc/75837_Uni.sdp
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视频道",河北卫视
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch17121814385494126166.rsc/75853_Uni.sdp
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视频道",重庆卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120118293449046768.rsc/70020_Uni.sdp
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视频道",海南卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120116181598810422.rsc/70001_Uni.sdp
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道",四川卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11122400393964414144.rsc/69962_Uni.sdp
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="卫视频道",山西卫视
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118303484157828.rsc/70039_Uni.sdp
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视频道",河南卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120118312827983078.rsc/69930_Uni.sdp
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视频道",江西卫视
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120118345500084693.rsc/69999_Uni.sdp
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视频道",广西卫视
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120114524702485505.rsc/69956_Uni.sdp
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视频道",吉林卫视
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120116035123677506.rsc/69989_Uni.sdp
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视频道",云南卫视
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120116144658191615.rsc/69926_Uni.sdp
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视频道",陕西卫视
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118332130518297.rsc/70017_Uni.sdp
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120118290217488762.rsc/70041_Uni.sdp
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118321878054010.rsc/69948_Uni.sdp
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视频道",新疆卫视
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120118204473437661.rsc/69942_Uni.sdp
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610332476918454.rsc/92476_Uni.sdp
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视频道",青海卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118273518671654.rsc/69945_Uni.sdp
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视频道",西藏卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120116213780720306.rsc/69953_Uni.sdp
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三沙卫视.png" group-title="卫视频道",三沙卫视
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch19120615372589393337.rsc/89705_Uni.sdp
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/延边卫视.png" group-title="卫视频道",延边卫视
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch23072116063432685915.rsc/98595_Uni.sdp
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="卫视频道",兵团卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/69935_Uni.sdp
+#EXTINF:-1 tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西农林卫视.png" group-title="卫视频道",农林卫视
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/69961_Uni.sdp
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/厦门卫视.png" group-title="卫视频道",厦门卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17120418140581348001.rsc/74165_Uni.sdp
+
+#EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东齐鲁.png" group-title="山东地方",山东齐鲁
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120117223157422538.rsc/70061_Uni.sdp
+#EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东文旅.png" group-title="山东地方",山东文旅
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120117133527564831.rsc/70048_Uni.sdp
+#EXTINF:-1 tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东生活.png" group-title="山东地方",山东生活
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120117100570561699.rsc/70011_Uni.sdp
+#EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东综艺.png" group-title="山东地方",山东综艺
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11012815051671532768.rsc/69938_Uni.sdp
+#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东体育.png" group-title="山东地方",山东体育
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10111720502861127519.rsc/70066_Uni.sdp
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东新闻.png" group-title="山东地方",山东新闻
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120117023986249401.rsc/70005_Uni.sdp
+#EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东农科.png" group-title="山东地方",山东农科
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11012815072111657053.rsc/70046_Uni.sdp
+#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东少儿.png" group-title="山东地方",山东少儿
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.rsc/69988_Uni.sdp
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育.png" group-title="山东地方",山东教育
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/69990_Uni.sdp
+
+
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",北京卫视4K
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch25032514071097767315.rsc/102825_Uni.sdp
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",爱上4K
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16062014270602375204.rsc/70019_Uni.sdp
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",新动漫
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21082717351468679466.rsc/92373_Uni.sdp
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",爱体育
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch17120418224162657206.rsc/74292_Uni.sdp
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",纪实科教
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch24020510150834566089.rsc/99953_Uni.sdp
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/谍战剧场.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",谍战剧场
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch13031310523562855603.rsc/69987_Uni.sdp
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",金鹰纪实
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch15050917541337365144.rsc/70053_Uni.sdp
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",动漫秀场
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch17121814421621825244.rsc/96206_Uni.sdp
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",金色学堂
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316370413715540.rsc/70002_Uni.sdp
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",魅力足球
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316323130170719.rsc/69931_Uni.sdp
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",生活时尚
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316300118213959.rsc/69982_Uni.sdp
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",都市剧场
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16051316281593708406.rsc/69947_Uni.sdp
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",财富天下
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915413342804586.rsc/69980_Uni.sdp
+#EXTINF:-1 tvg-name="收视指南" tvg-logo="https://live.fanmingming.com/tv/收视指南.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",收视指南
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217035832697899.rsc/70025_Uni.sdp
+#EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://live.fanmingming.com/tv/热播剧场.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",热播剧场
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11060317301148954080.rsc/70000_Uni.sdp
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",经典电影
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11060317313622161494.rsc/69976_Uni.sdp
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://live.fanmingming.com/tv/少儿动画.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",少儿动画
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217221377842336.rsc/70047_Uni.sdp
+#EXTINF:-1 tvg-name="相声小品" tvg-logo="https://live.fanmingming.com/tv/相声小品.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",相声小品
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch13031310531244319435.rsc/70013_Uni.sdp
+#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://live.fanmingming.com/tv/魅力时尚.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",魅力时尚
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217095691862636.rsc/70009_Uni.sdp
+#EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://live.fanmingming.com/tv/IPTV野外.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",IPTV野外
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch13031310535009021862.rsc/70024_Uni.sdp
+#EXTINF:-1 tvg-name="IPTV法治" tvg-logo="https://live.fanmingming.com/tv/IPTV法治.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道" group-title="高清频道",IPTV法治
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch13031310542255942002.rsc/70032_Uni.sdp
+
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",CHC家庭影院
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch18120514091718394256.rsc/81481_Uni.sdp
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",CHC动作电影
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch18120514100139517699.rsc/81477_Uni.sdp
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",CHC影迷电影
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch18120514102191199606.rsc/81478_Uni.sdp
+#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://live.fanmingming.com/tv/喜剧影院.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",喜剧影院
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916165898699737.rsc/70008_Uni.sdp
+#EXTINF:-1 tvg-name="动作影院" tvg-logo="https://live.fanmingming.com/tv/动作影院.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",动作影院
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090916164124642866.rsc/70004_Uni.sdp
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",先锋乒羽
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch18120514104123291864.rsc/81479_Uni.sdp
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",新动漫
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch18120514112382335432.rsc/81475_Uni.sdp
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",中国教育1
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17120418204481298161.rsc/74278_Uni.sdp
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://live.fanmingming.com/tv/中国教育2.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",中国教育2
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch17120417211408620162.rsc/74298_Uni.sdp
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",中国教育4
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch17120418055568047747.rsc/74289_Uni.sdp
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",中国交通
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch20110221445820405906.rsc/90479_Uni.sdp
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",发现之旅
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch24012314294218176484.rsc/100102_Uni.sdp
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",中学生
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch24012314300175015886.rsc/100054_Uni.sdp
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",老故事
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch24012314302384136112.rsc/100078_Uni.sdp
+#EXTINF:-1 tvg-name="动画" tvg-logo="https://live.fanmingming.com/tv/动画.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",动画
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915451711071162.rsc/70065_Uni.sdp
+#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://live.fanmingming.com/tv/爱综艺.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",爱综艺
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217211688091136.rsc/69970_Uni.sdp
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",爱体育
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11060317323358720349.rsc/69939_Uni.sdp
+#EXTINF:-1 tvg-name="爱电影" tvg-logo="https://live.fanmingming.com/tv/爱电影.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",爱电影
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch11061217105732492560.rsc/69994_Uni.sdp
+#EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://live.fanmingming.com/tv/爱大剧.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道" group-title="付费频道",爱大剧
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch11061217231007675294.rsc/70034_Uni.sdp
+
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",金鹰卡通
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch24111213065813502431.rsc/101580_Uni.sdp
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",金鹰卡通
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch11122400412227153064.rsc/70028_Uni.sdp
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",卡酷少儿
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120118400576795406.rsc/69993_Uni.sdp
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",优漫卡通
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11042914374730524823.rsc/69927_Uni.sdp
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",哈哈炫动
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch11122400404197907033.rsc/69973_Uni.sdp
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",嘉佳卡通
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch15050917541249689380.rsc/69983_Uni.sdp
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",乐游频道
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316264757381898.rsc/69991_Uni.sdp
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",法治天地
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16051316234089749497.rsc/96400_Uni.sdp
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",游戏风云
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16051316213602697345.rsc/70026_Uni.sdp
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",东方财经
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316174673479081.rsc/96398_Uni.sdp
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://live.fanmingming.com/tv/梨园频道.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",梨园频道
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610314667739520.rsc/92523_Uni.sdp
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",武术世界
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610320200462249.rsc/96396_Uni.sdp
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",文物宝库
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610321303262159.rsc/92509_Uni.sdp
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",快乐垂钓
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21082717343948936881.rsc/96392_Uni.sdp
+#EXTINF:-1 tvg-name="书画标清" tvg-logo="https://live.fanmingming.com/tv/书画标清.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",书画标清
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch21092610331127874295.rsc/92486_Uni.sdp
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",家庭理财
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21082717350408221256.rsc/96387_Uni.sdp
+#EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://live.fanmingming.com/tv/城市剧场.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",城市剧场
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090914573308932938.rsc/70029_Uni.sdp
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://live.fanmingming.com/tv/音乐现场.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",音乐现场
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090914592145596821.rsc/70070_Uni.sdp
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png" group-title="精彩频道" group-title="家庭频道" group-title="综合频道",军旅剧场
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090915023023311866.rsc/69969_Uni.sdp
+
+#EXTINF:-1 tvg-name="足球" tvg-logo="https://live.fanmingming.com/tv/足球.png" group-title="精彩频道" group-title="家庭频道",足球
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090915041757410943.rsc/69998_Uni.sdp
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="精彩频道" group-title="家庭频道",古装剧场
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090915062673403232.rsc/70072_Uni.sdp
+#EXTINF:-1 tvg-name="军事" tvg-logo="https://live.fanmingming.com/tv/军事.png" group-title="精彩频道" group-title="家庭频道",军事
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090915223200641077.rsc/70054_Uni.sdp
+#EXTINF:-1 tvg-name="地理" tvg-logo="https://live.fanmingming.com/tv/地理.png" group-title="精彩频道" group-title="家庭频道",地理
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090915235866760733.rsc/70036_Uni.sdp
+#EXTINF:-1 tvg-name="红色影院" tvg-logo="https://live.fanmingming.com/tv/红色影院.png" group-title="精彩频道" group-title="家庭频道",红色影院
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915431474482038.rsc/70060_Uni.sdp
+#EXTINF:-1 tvg-name="精选" tvg-logo="https://live.fanmingming.com/tv/精选.png" group-title="精彩频道" group-title="家庭频道",精选
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090915484219614929.rsc/69955_Uni.sdp
+#EXTINF:-1 tvg-name="经典剧场" tvg-logo="https://live.fanmingming.com/tv/经典剧场.png" group-title="精彩频道" group-title="家庭频道",经典剧场
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915512437000823.rsc/70022_Uni.sdp
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://live.fanmingming.com/tv/武侠剧场.png" group-title="精彩频道" group-title="家庭频道",武侠剧场
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090915591653040173.rsc/69952_Uni.sdp
+#EXTINF:-1 tvg-name="美人" tvg-logo="https://live.fanmingming.com/tv/美人.png" group-title="精彩频道" group-title="家庭频道",美人
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090916040665863835.rsc/69934_Uni.sdp
+#EXTINF:-1 tvg-name="鉴赏" tvg-logo="https://live.fanmingming.com/tv/鉴赏.png" group-title="精彩频道" group-title="家庭频道",鉴赏
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090916075722072184.rsc/69924_Uni.sdp
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://live.fanmingming.com/tv/国学.png" group-title="精彩频道" group-title="家庭频道",国学
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090916181970967371.rsc/69985_Uni.sdp
+#EXTINF:-1 tvg-name="星影" tvg-logo="https://live.fanmingming.com/tv/星影.png" group-title="精彩频道" group-title="家庭频道",星影
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916302647677604.rsc/69967_Uni.sdp
+#EXTINF:-1 tvg-name="早教" tvg-logo="https://live.fanmingming.com/tv/早教.png" group-title="精彩频道" group-title="家庭频道",早教
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916274339587371.rsc/69944_Uni.sdp
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="精彩频道" group-title="家庭频道",家庭影院
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916215642164569.rsc/70055_Uni.sdp
+#EXTINF:-1 tvg-name="好学生" tvg-logo="https://live.fanmingming.com/tv/好学生.png" group-title="精彩频道" group-title="家庭频道",好学生
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090916191459347432.rsc/70050_Uni.sdp
+#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://live.fanmingming.com/tv/生态环境.png" group-title="精彩频道" group-title="家庭频道",生态环境
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch24111213061931833007.rsc/101604_Uni.sdp
+#EXTINF:-1 tvg-name="武术" tvg-logo="https://live.fanmingming.com/tv/武术.png" group-title="精彩频道" group-title="家庭频道",武术
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915491066711905.rsc/69984_Uni.sdp
+#EXTINF:-1 tvg-name="美妆" tvg-logo="https://live.fanmingming.com/tv/美妆.png" group-title="精彩频道" group-title="家庭频道",美妆
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch15090915493052938184.rsc/70015_Uni.sdp
+
+#EXTINF:-1 tvg-name="墨宝" tvg-logo="https://live.fanmingming.com/tv/墨宝.png" group-title="精彩频道",墨宝
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916235097407367.rsc/70062_Uni.sdp
+#EXTINF:-1 tvg-name="光影" tvg-logo="https://live.fanmingming.com/tv/光影.png" group-title="精彩频道",光影
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090916254772284807.rsc/69940_Uni.sdp
+#EXTINF:-1 tvg-name="戏曲" tvg-logo="https://live.fanmingming.com/tv/戏曲.png" group-title="精彩频道",戏曲
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915581648434862.rsc/70031_Uni.sdp
+#EXTINF:-1 tvg-name="爱生活" tvg-logo="https://live.fanmingming.com/tv/爱生活.png" group-title="精彩频道",爱生活
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090915560951747742.rsc/69929_Uni.sdp
+#EXTINF:-1 tvg-name="解密" tvg-logo="https://live.fanmingming.com/tv/解密.png" group-title="精彩频道",解密
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090915530786226072.rsc/70033_Uni.sdp
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="精彩频道",四海钓鱼
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch22121315043920146188.rsc/96497_Uni.sdp
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="精彩频道",环球旅游
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch22122209125585392509.rsc/98106_Uni.sdp
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="精彩频道",优优宝贝
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch22122209132553924896.rsc/98132_Uni.sdp
+#EXTINF:-1 tvg-name="车迷标清" tvg-logo="https://live.fanmingming.com/tv/车迷标清.png" group-title="精彩频道",车迷标清
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch22122209135109414851.rsc/98174_Uni.sdp
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="精彩频道",中华特产
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch22122209144768479365.rsc/98231_Uni.sdp
+#EXTINF:-1 tvg-name="海看演艺" tvg-logo="https://live.fanmingming.com/tv/海看演艺.png" group-title="精彩频道",海看演艺
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch23112315513709014787.rsc/99848_Uni.sdp
+#EXTINF:-1 tvg-name="汽摩频道" tvg-logo="https://live.fanmingming.com/tv/汽摩频道.png" group-title="精彩频道",汽摩频道
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch23112715323902470603.rsc/99884_Uni.sdp
+#EXTINF:-1 tvg-name="海洋频道" tvg-logo="https://live.fanmingming.com/tv/海洋频道.png" group-title="精彩频道",海洋频道
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch22111116270462496793.rsc/96159_Uni.sdp
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="精彩频道",精彩影视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610322847858391.rsc/92512_Uni.sdp
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="精彩频道",茶频道
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610324607482092.rsc/92499_Uni.sdp
