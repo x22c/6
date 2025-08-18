@@ -3,26 +3,25 @@
 💎独家内网源💎,https://my5353.com/uQJjg
 
 央视频道,#genre#
-CCTV1,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226113/1.m3u8
-CCTV2,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8
-CCTV3,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226632/1.m3u8
-CCTV4,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226683/1.m3u8
-CCTV5,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226640/1.m3u8
-CCTV5+,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226641/1.m3u8
-CCTV6,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226643/1.m3u8
-CCTV7,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226687/1.m3u8
-CCTV8,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226635/1.m3u8
-CCTV9,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226571/1.m3u8
-CCTV10,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226680/1.m3u8
-CCTV11,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226684/1.m3u8
-CCTV12,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
-CCTV13,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226688/1.m3u8
-CCTV14,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226685/1.m3u8
-CCTV15,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226677/1.m3u8
-CCTV16,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226642/1.m3u8
-CCTV 4K超高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226737/.m3u8
-CCTV 4K超高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226766/.m3u8
-
+CCTV-1,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226113/1.m3u8
+CCTV-2,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8
+CCTV-3,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226632/1.m3u8
+CCTV-4,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226683/1.m3u8
+CCTV-5,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226640/1.m3u8
+CCTV-5+,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226641/1.m3u8
+CCTV-6,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226643/1.m3u8
+CCTV-7,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226687/1.m3u8
+CCTV-8,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226635/1.m3u8
+CCTV-9,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226571/1.m3u8
+CCTV-10,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226680/1.m3u8
+CCTV-11,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226684/1.m3u8
+CCTV-12,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
+CCTV-13,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226688/1.m3u8
+CCTV-14,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226685/1.m3u8
+CCTV-15,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226677/1.m3u8
+CCTV-16,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226642/1.m3u8
+CCTV-4K,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226737/.m3u8
+CCTV-4K,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226766/.m3u8
 
 卫视频道,#genre#
 湖北卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226689/1.m3u8
@@ -82,16 +81,16 @@ CCTV 4K超高清,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/322122676
 CHC动作电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226673/.m3u8
 CHC家庭影院,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226676/.m3u8
 CHC影迷电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226681/.m3u8
-CCTV第一剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226736/.m3u8
-CCTV怀旧剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226710/.m3u8
-CCTV世界地理,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226720/.m3u8
-CCTV兵器科技,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226723/.m3u8
-CCTV风云音乐,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226713/.m3u8
-CCTV央视台球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226716/.m3u8
-CCTV风云足球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226719/.m3u8
-CCTV女性时尚,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226730/.m3u8
-CCTV高尔夫网球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226742/.m3u8
-CCTV老故事,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226739/.m3u8
+CCTV-第一剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226736/.m3u8
+CCTV-怀旧剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226710/.m3u8
+CCTV-世界地理,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226720/.m3u8
+CCTV-兵器科技,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226723/.m3u8
+CCTV-风云音乐,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226713/.m3u8
+CCTV-央视台球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226716/.m3u8
+CCTV-风云足球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226719/.m3u8
+CCTV-女性时尚,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226730/.m3u8
+CCTV-高尔夫网球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226742/.m3u8
+CCTV-老故事,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226739/.m3u8
 
 
 高清频道,#genre#
