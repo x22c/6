@@ -58,6 +58,7 @@ CGTN,http://10.223.3.189:80/PLTV/88888888/224/3221225652/10000100000000060000000
 五星体育,http://cdn.jdshipin.com/kdf.php?id=1605
 上海新纪实,http://cdn.jdshipin.com/kdf.php?id=1600
 乐游,http://cdn.jdshipin.com/kdf.php?id=1745
+东方影视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfys
 
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 上海新闻综合,http://cdn.jdshipin.com/kkxw.php?id=2
