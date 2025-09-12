@@ -142,6 +142,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
 #EXTINF:-1,tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://live.fanmingming.com/tv/南京生活.png" group-title="江苏地方",南京生活频道
 http://ott.mobaibox.com/PLTV/3/224/3221227786/index.m3u8
+#EXTINF:-1,tvg-id="苏州文化生活" tvg-name="苏州文化生活" tvg-logo="https://epg.112114.xyz/logo/苏州文化生活.png" group-title="江苏地方",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1,tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://epg.112114.xyz/logo/苏州新闻综合.png" group-title="江苏地方",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1,tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" tvg-logo="https://epg.112114.xyz/logo/苏州生活资讯.png" group-title="江苏地方",苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1,tvg-id="苏州社会经济" tvg-name="苏州社会经济" tvg-logo="https://epg.112114.xyz/logo/苏州社会经济.png" group-title="江苏地方",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 #EXTINF:-1,tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://live.fanmingming.com/tv/镇江新闻综合.png" group-title="江苏地方",镇江新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
 #EXTINF:-1,tvg-id="镇江民生频道" tvg-name="镇江民生频道" tvg-logo="https://live.fanmingming.com/tv/镇江民生.png" group-title="江苏地方",镇江民生频道
@@ -156,8 +164,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
 #EXTINF:-1,tvg-id="常州公共" tvg-name="常州公共" tvg-logo="https://live.fanmingming.com/tv/常州公共.png" group-title="江苏地方",常州公共频道
 http://ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
-#EXTINF:-1,tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://live.fanmingming.com/tv/苏州新闻综合.png" group-title="江苏地方",苏州新闻频道
-http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 #EXTINF:-1,tvg-id="扬州新闻综合" tvg-name="扬州新闻综合" tvg-logo="https://live.fanmingming.com/tv/扬州新闻综合.png" group-title="江苏地方",扬州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228117/index.m3u8
 #EXTINF:-1,tvg-id="扬州城市频道" tvg-name="扬州城市频道" tvg-logo="https://live.fanmingming.com/tv/扬州城市.png" group-title="江苏地方",扬州城市频道
