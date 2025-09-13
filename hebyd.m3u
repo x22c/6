@@ -123,15 +123,6 @@ http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 #EXTINF:-1,tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="少儿频道",CETV-4
 http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 
-#EXTINF:-1,tvg-id="晴彩少年" tvg-name="晴彩少年" tvg-logo="https://11.112114.xyz/logo/晴彩少年.png" group-title="晴彩频道",晴彩少年
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="晴彩竞技" tvg-name="晴彩竞技" tvg-logo="https://11.112114.xyz/logo/晴彩竞技.png" group-title="晴彩频道",晴彩竞技
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="篮球" tvg-name="篮球" tvg-logo="https://11.112114.xyz/logo/篮球.png" group-title="晴彩频道",晴彩篮球
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1,tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://11.112114.xyz/logo/晴彩广场舞.png" group-title="晴彩频道",晴彩广场舞
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="晴彩频道",晴彩少年
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="晴彩频道",晴彩竞技
