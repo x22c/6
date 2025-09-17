@@ -161,6 +161,8 @@ SCTV-科教高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227927/index.m3u
 成都-5,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227587/index.m3u8
 成都-6,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227597/index.m3u8
 成都-8,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227601/index.m3u8
+简阳新闻,https://quxian.pull.cditv.cn/live/jianyang.flv/playlist.m3u8?wsSecret=73b90027c5849fa4e9631d37fa7481d4&wsTime=68ca2eec
+简阳新闻,https://tfp81gc5nhcjugazdncbifa3dommtqihg1amqf3a8k5dcf3tse4mwqazgg5o.100ycdn.com/quxian.pull.cditv.cn/live/jianyang.flv/playlist.m3u8?wsSecret=73b90027c5849fa4e9631d37fa7481d4&wsTime=68ca2eec&wsSession=466748f0466cf01990ff72fc-175808074866935&wsIPSercert=284ea50bd013f05281f674bc834ecb4a&wsiphost=local&wsBindIP=1
 西昌综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227551/index.m3u8
 达州综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227581/index.m3u8
 内江综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227932/index.m3u8
