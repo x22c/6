@@ -13,7 +13,7 @@ http://27.148.240.138/PLTV/88888888/224/3221227317/1.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4
 http://27.148.240.138/PLTV/88888888/224/3221227331/1.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV-5+
-http://27.148.240.138/PLTV/88888888/224/3221226850/1.m3u8
+http://148.135.93.213/live.php?id=CCTV5p
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5
 http://27.148.240.138/PLTV/88888888/224/3221227254/1.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-6
