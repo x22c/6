@@ -113,6 +113,18 @@ rtp://239.49.8.107:8000
 rtp://239.49.8.108:8000
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="江苏频道",江苏影视
 rtp://239.49.8.118:8000
+#EXTINF:-1 tvg-name="苏州4k" tvg-id="苏州4k" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州4k.png" group-title="江苏频道", 苏州4k
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 tvg-name="苏州新闻综合" tvg-id="苏州新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="江苏频道", 苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-name="苏州社会经济" tvg-id="苏州社会经济" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou2.png" group-title="江苏频道", 苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-id="苏州文化生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png" group-title="江苏频道", 苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 tvg-name="苏州电影娱乐" tvg-id="苏州电影娱乐" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou4.png" group-title="江苏频道", 苏州电影娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-id="苏州生活资讯" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou5.png" group-title="江苏频道", 苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 
 #EXTINF:-1 tvg-name="睛彩竞技(限免)" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技(限免).png" group-title="付费频道",睛彩竞技(限免)
 rtp://239.49.8.39:8000
