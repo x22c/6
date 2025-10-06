@@ -240,6 +240,16 @@ http://ott.mobaibox.com/PLTV/3/224/3221228533/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221226392/index.m3u8
 #EXTINF:-1,tvg-id="仪征电视台" tvg-name="仪征电视台" tvg-logo="https://live.fanmingming.com/tv/仪征电视台.png" group-title="江苏地方",仪征电视台
 http://ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8
+#EXTINF:-1 tvg-name="苏州新闻综合" tvg-id="苏州新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="江苏地方", 苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-name="苏州社会经济" tvg-id="苏州社会经济" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou2.png" group-title="江苏地方", 苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-id="苏州文化生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png" group-title="江苏地方", 苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 tvg-name="苏州电影娱乐" tvg-id="苏州电影娱乐" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou4.png" group-title="江苏地方", 苏州电影娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-id="苏州生活资讯" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou5.png" group-title="江苏地方", 苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="超清频道",江苏卫视 4K
 http://183.207.249.71/gitv/live1/-/G_JIANGSU-4K
@@ -285,7 +295,8 @@ http://ott.mobaibox.com/PLTV/*/224/3221228740/index.m3u8
 http://ott.mobaibox.com/PLTV/*/224/3221227506/index.m3u8
 #EXTINF:-1,tvg-id="4K 修复" tvg-name="4K 修复" tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="超清频道",4K 修复
 http://ott.mobaibox.com/PLTV/*/224/3221228141/index.m3u8
-
+#EXTINF:-1 tvg-name="苏州4k" tvg-id="苏州4k" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州4k.png" group-title="超清频道", 苏州4k
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="超清频道",CCTV-1
 http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
