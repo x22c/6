@@ -1,5 +1,3 @@
-
-
 央视频道,#genre#
 CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
 CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226032/1.m3u8
