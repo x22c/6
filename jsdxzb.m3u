@@ -90,10 +90,29 @@ rtp://239.49.0.250:8000
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视
 rtp://239.49.0.81:8000
 
-#EXTINF:-1 tvg-name="CCTV--4K" tvg-logo="https://live.fanmingming.com/tv/CCTV--4K.png" group-title="超清频道",CCTV--4K
+#EXTINF:-1 tvg-name="CCTV--4K" tvg-logo="https://live.fanmingming.com/tv/CCTV--4K.png" group-title="超清频道",CCTV-4K
 rtp://239.49.0.82:8000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="超清频道",CCTV-16-4K
 rtp://239.49.0.109:8000
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png"  group-title="超清频道",北京卫视4K
+rtp://239.49.0.253:8000
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K.png"  group-title="超清频道",广东卫视4K
+rtp://239.49.1.26:8000
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视4K.png"  group-title="超清频道",深圳卫视4K
+rtp://239.49.1.28:8000
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png"  group-title="超清频道",江苏卫视4K
+rtp://239.49.1.62:8000
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.com/tv/浙江卫视4K.png"  group-title="超清频道",浙江卫视4K
+rtp://239.49.1.64:8000
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视4K.png"  group-title="超清频道",四川卫视4K
+rtp://239.49.1.66:8000
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4K.png"  group-title="超清频道",湖南卫视4K
+rtp://239.49.1.68:8000
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.com/tv/东方卫视4K.png"  group-title="超清频道",东方卫视4K
+rtp://239.49.1.70:8000
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/山东卫视4K.png"  group-title="超清频道",山东卫视4K
+rtp://239.49.1.72:8000
+
 #EXTINF:-1 tvg-name="北京卫视-4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视-4K.png" group-title="超清频道",北京卫视-4K
 rtp://239.49.0.42:8000
 #EXTINF:-1 tvg-name="4K跨年直播1" tvg-logo="https://live.fanmingming.com/tv/4K跨年直播1.png" group-title="超清频道",4K跨年直播1
