@@ -64,7 +64,30 @@ CCTV-4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/320230922110208484620
 厦门卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381023/main.m3u8
 兵团卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381024/main.m3u8
 
-湖南地方,#genre#
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.935181.xyz/LOGO/CCTV4K.png" group-title="超清频道",CCTV-4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.935181.xyz/LOGO/CCTV16.png" group-title="超清频道",CCTV16-4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/main.m3u8$hnyd
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.935181.xyz/LOGO/湖南卫视4K.png" group-title="超清频道",湖南卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8$hnyd
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.404003.xyz/LOGO/江苏卫视4K.png" group-title="超清频道",江苏卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262178928213010539289/main.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视4K.png" group-title="超清频道",浙江卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262252695540491433081/main.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.404003.xyz/LOGO/东方卫视4K.png" group-title="超清频道",东方卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262078079170451541005/main.m3u8
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.404003.xyz/LOGO/四川卫视4K.png" group-title="超清频道",四川卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262063636605981698869/main.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.404003.xyz/LOGO/山东卫视4K.png" group-title="超清频道",山东卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262122088149630612658/main.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.404003.xyz/LOGO/北京卫视4K.png" group-title="超清频道",北京卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025022616374181764583225166397/main.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.404003.xyz/LOGO/广东卫视4K.png" group-title="超清频道",广东卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216045554851550640574941/main.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.404003.xyz/LOGO/深圳卫视4K.png" group-title="超清频道",深圳卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216044934209640975946187/main.m3u8
+
+湖南频道,#genre#
 湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
 湖南经视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000194900/main.m3u8
 湖南都市,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000195952/main.m3u8
@@ -79,6 +102,44 @@ CCTV-4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/320230922110208484620
 长沙政法,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182540/main.m3u8
 长沙女性,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182541/main.m3u8
 长沙影视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182542/main.m3u8
+湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
+湖南经视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
+湖南都市,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001249/main.m3u8
+湖南电视剧,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001245/main.m3u8
+湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001246/main.m3u8
+湖南娱乐,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001248/main.m3u8
+金鹰纪实,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007228/main.m3u8
+湖南爱晚,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047425/main.m3u8
+湖南国际,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047426/main.m3u8
+金鹰卡通,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001247/main.m3u8
+湖南教育,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/main.m3u8
+茶频道,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000003000000104063/main.m3u8
+长沙新闻,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047429/main.m3u8
+长沙政法,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047430/main.m3u8
+长沙政法,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182540/main.m3u8
+宁乡综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000088000000189333/main.m3u8
+常德新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000014000000153736/main.m3u8
+常德新闻综合,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000014000000153736/main.m3u8
+常德公共,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000014000000153735/main.m3u8
+岳阳公共,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000015000000071035/main.m3u8
+岳阳公共,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001001/00000001000000000015000000071035/main.m3u8
+岳阳公共,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000015000000071035/main.m3u8
+岳阳综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000015000000071030/main.m3u8
+岳阳综合,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001001/00000001000000000015000000071030/main.m3u8
+岳阳综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000015000000071030/main.m3u8
+岳阳综合,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000015000000071030/main.m3u8
+湘潭新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047451/main.m3u8
+湘潭新闻综合,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000008000000047451/main.m3u8
+株州新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047450/main.m3u8
+株州新闻综合,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000008000000047450/main.m3u8
+郴州综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000253555/main.m3u8
+郴州综合,http://100.127.88.4:80/180000001001/00000001000000001023000000052251/main.m3u8
+郴州综合,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000031000000253555/main.m3u8
+湘西综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007222/main.m3u8
+湘西综合,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000016000000007222/main.m3u8
+怀化综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000287147/main.m3u8
+怀化综合,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000016000000287147/main.m3u8
+
 
 付费频道,#genre#
 第一剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244808/main.m3u8
@@ -96,6 +157,9 @@ CCTV-4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/320230922110208484620
 天元围棋,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
 
 高清频道,#genre#
+CHC家庭影院,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8
+CHC高清电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448841/main.m3u8
+CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8
 家庭影院,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8
 早期教育,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023060222354368427501888132813/main.m3u8
 中学生,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023061416093545217774427398013/main.m3u8
@@ -108,7 +172,6 @@ CCTV-4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/320230922110208484620
 快乐购,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047427/main.m3u8
 嘉丽购,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047453/main.m3u8
 茶频道,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000316196/main.m3u8
-优购物,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023081509025290234840317360123/main.m3u8
 
 家庭频道,#genre#
 卡酷少儿,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/main.m3u8
@@ -126,6 +189,7 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001002/0000000100000000002400
 新动漫,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448837/main.m3u8
 优优宝贝,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040377/main.m3u8
 老故事,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8
+优购物,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023081509025290234840317360123/main.m3u8
 
 综合频道,#genre#
 家庭理财,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040379/main.m3u8
