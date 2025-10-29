@@ -50,6 +50,25 @@ CCTV-17 农村农业,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/ind
 陕西卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227127/index.m3u8
 海南卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227139/index.m3u8
 
+超清频道,#genre#
+CCTV-4K,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+欢笑剧场4K,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227970/index.m3u8
+北京卫视4K-25P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+深圳卫视4K-25P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+广东卫视4K-25P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+四川卫视4K-50P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+湖南卫视4K-50P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+江苏卫视4K-50P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+浙江卫视4K-50P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+东方卫视4K-50P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+山东卫视4K-50P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+四川卫视4K-25P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+湖南卫视4K-25P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+江苏卫视4K-25P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+浙江卫视4K-25P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+东方卫视4K-25P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+山东卫视4K-25P,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+
 四川地方,#genre#
 四川卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/index.m3u8
 四川经济,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227415/index.m3u8
