@@ -132,6 +132,88 @@ http://112.86.202.37:8112/JSBC_iptv/C10000153@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000122@JSBC
 #EXTINF:-1 tvg-name="南京文旅记录" tvg-logo="https://d.kstore.dev/download/6946/icon/南京文旅记录.png" group-title="江苏频道",南京文旅
 http://112.86.202.37:8112/JSBC_iptv/C10000154@JSBC
+#EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://11.112114.xyz/logo/江苏新闻.png" group-title="江苏频道",江苏新闻
+https://zhibo-hls.jstv.com/litchi/zhibo-jsgg.m3u8
+#EXTINF:-1,tvg-id="南京江宁综合" tvg-name="南京江宁综合" tvg-logo="https://11.112114.xyz/logo/南京江宁综合.png" group-title="江苏频道",南京江宁综合
+https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
+#EXTINF:-1,tvg-id="南京六合新闻" tvg-name="南京六合新闻" tvg-logo="https://11.112114.xyz/logo/南京六合新闻.png" group-title="江苏频道",南京六合新闻
+http://p2hs.vzan.com/720020/432453820030502236/live.m3u8
+#EXTINF:-1,tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://11.112114.xyz/logo/苏州新闻综合.png" group-title="江苏频道",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1,tvg-id="苏州社会经济" tvg-name="苏州社会经济" tvg-logo="https://11.112114.xyz/logo/苏州社会经济.png" group-title="江苏频道",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1,tvg-id="苏州文化生活" tvg-name="苏州文化生活" tvg-logo="https://11.112114.xyz/logo/苏州文化生活.png" group-title="江苏频道",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1,tvg-id="苏州电影娱乐" tvg-name="苏州电影娱乐" tvg-logo="https://11.112114.xyz/logo/苏州电影娱乐.png" group-title="江苏频道",苏州电影娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1,tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" tvg-logo="https://11.112114.xyz/logo/苏州生活资讯.png" group-title="江苏频道",苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1,tvg-id="苏州记录4k" tvg-name="苏州记录4k" tvg-logo="https://11.112114.xyz/logo/苏州记录4K.png" group-title="江苏频道",苏州记录4k
+http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1,tvg-id="吴江新闻综合" tvg-name="吴江新闻综合" tvg-logo="https://11.112114.xyz/logo/吴江新闻综合.png" group-title="江苏频道",吴江新闻综合
+https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
+#EXTINF:-1,tvg-id="无锡新闻" tvg-name="无锡新闻" tvg-logo="https://11.112114.xyz/logo/无锡新闻.png" group-title="江苏频道",无锡新闻
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1,tvg-id="无锡都市" tvg-name="无锡都市" tvg-logo="https://11.112114.xyz/logo/无锡都市.png" group-title="江苏频道",无锡都市
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1,tvg-id="无锡生活" tvg-name="无锡生活" tvg-logo="https://11.112114.xyz/logo/无锡生活.png" group-title="江苏频道",无锡生活
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1,tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="https://11.112114.xyz/logo/无锡经济.png" group-title="江苏频道",无锡经济
+http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1,tvg-id="无锡娱乐" tvg-name="无锡娱乐" tvg-logo="https://11.112114.xyz/logo/无锡娱乐.png" group-title="江苏频道",无锡娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1,tvg-id="无锡江阴新闻" tvg-name="无锡江阴新闻" tvg-logo="https://11.112114.xyz/logo/无锡江阴新闻.png" group-title="江苏频道",无锡江阴新闻
+http://221.228.70.101:8080/live/xinwen.m3u8
+#EXTINF:-1,tvg-id="无锡宜兴新闻" tvg-name="无锡宜兴新闻" tvg-logo="https://11.112114.xyz/logo/无锡宜兴新闻.png" group-title="江苏频道",无锡宜兴新闻
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+#EXTINF:-1,tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://11.112114.xyz/logo/镇江新闻综合.png" group-title="江苏频道",镇江新闻综合
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1,tvg-id="镇江社会民生" tvg-name="镇江社会民生" tvg-logo="https://11.112114.xyz/logo/镇江社会民生.png" group-title="江苏频道",镇江社会民生
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1,tvg-id="镇江文化娱乐" tvg-name="镇江文化娱乐" tvg-logo="https://11.112114.xyz/logo/镇江文化娱乐.png" group-title="江苏频道",镇江文化娱乐
+http://zjtv-wshls.homecdn.com/live/2aa58.m3u8
+#EXTINF:-1,tvg-id="常州金坛综合" tvg-name="常州金坛综合" tvg-logo="https://11.112114.xyz/logo/常州金坛综合.png" group-title="江苏频道",常州金坛综合
+http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+#EXTINF:-1,tvg-id="扬州高邮综合" tvg-name="扬州高邮综合" tvg-logo="https://11.112114.xyz/logo/扬州高邮综合.png" group-title="江苏频道",扬州高邮综合
+http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+#EXTINF:-1,tvg-id="扬州江都综合" tvg-name="扬州江都综合" tvg-logo="https://11.112114.xyz/logo/扬州江都综合.png" group-title="江苏频道",扬州江都综合
+http://cm-wshls.homecdn.com/live/8c1.m3u8
+#EXTINF:-1,tvg-id="南通如东新闻" tvg-name="南通如东新闻" tvg-logo="https://11.112114.xyz/logo/南通如东新闻.png" group-title="江苏频道",南通如东新闻
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+#EXTINF:-1,tvg-id="盐城大丰新闻" tvg-name="盐城大丰新闻" tvg-logo="https://11.112114.xyz/logo/盐城大丰新闻.png" group-title="江苏频道",盐城大丰新闻
+http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+#EXTINF:-1,tvg-id="盐城大丰公共" tvg-name="盐城大丰公共" tvg-logo="https://11.112114.xyz/logo/盐城大丰公共.png" group-title="江苏频道",盐城大丰公共
+http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+#EXTINF:-1,tvg-id="徐州邳州综合" tvg-name="徐州邳州综合" tvg-logo="https://11.112114.xyz/logo/徐州邳州综合.png" group-title="江苏频道",徐州邳州综合
+https://liveplus.pznews.com/pzzhpd/sd/live.m3u8
+#EXTINF:-1,tvg-id="徐州新沂新闻" tvg-name="徐州新沂新闻" tvg-logo="https://11.112114.xyz/logo/徐州新沂新闻.png" group-title="江苏频道",徐州新沂新闻
+http://live.xysrmt.cn/xwzh/sd/live.m3u8
+#EXTINF:-1,tvg-id="徐州新沂生活" tvg-name="徐州新沂生活" tvg-logo="https://11.112114.xyz/logo/徐州新沂生活.png" group-title="江苏频道",徐州新沂生活
+http://live.xysrmt.cn/shpd/sd/live.m3u8
+#EXTINF:-1,tvg-id="徐州睢宁综合" tvg-name="徐州睢宁综合" tvg-logo="https://11.112114.xyz/logo/徐州睢宁综合.png" group-title="江苏频道",徐州睢宁综合
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
+#EXTINF:-1,tvg-id="徐州睢宁三农" tvg-name="徐州睢宁三农" tvg-logo="https://11.112114.xyz/logo/徐州睢宁三农.png" group-title="江苏频道",徐州睢宁三农
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
+#EXTINF:-1,tvg-id="泰州姜堰新闻" tvg-name="泰州姜堰新闻" tvg-logo="https://11.112114.xyz/logo/泰州姜堰新闻.png" group-title="江苏频道",泰州姜堰新闻
+https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
+#EXTINF:-1,tvg-id="宿迁泗阳资讯" tvg-name="宿迁泗阳资讯" tvg-logo="https://11.112114.xyz/logo/宿迁泗阳资讯.png" group-title="江苏频道",宿迁泗阳资讯
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+#EXTINF:-1,tvg-id="宿迁沭阳综合" tvg-name="宿迁沭阳综合" tvg-logo="https://11.112114.xyz/logo/宿迁沭阳综合.png" group-title="江苏频道",宿迁沭阳综合
+http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+#EXTINF:-1,tvg-id="宿迁宿豫综合" tvg-name="宿迁宿豫综合" tvg-logo="https://11.112114.xyz/logo/宿迁宿豫综合.png" group-title="江苏频道",宿迁宿豫综合
+https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8?zjiangsd
+#EXTINF:-1,tvg-id="淮安公共新闻" tvg-name="淮安公共新闻" tvg-logo="https://11.112114.xyz/logo/淮安公共新闻.png" group-title="江苏频道",淮安公共新闻
+http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1,tvg-id="淮安影院娱乐" tvg-name="淮安影院娱乐" tvg-logo="https://11.112114.xyz/logo/淮安影院娱乐.png" group-title="江苏频道",淮安影院娱乐
+http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1,tvg-id="淮安淮安公共" tvg-name="淮安淮安公共" tvg-logo="https://11.112114.xyz/logo/淮安淮安公共.png" group-title="江苏频道",淮安淮安公共
+http://live1.habctv.com/ggpdsl/sd/live.m3u8
+#EXTINF:-1,tvg-id="淮安涟水综合" tvg-name="淮安涟水综合" tvg-logo="https://11.112114.xyz/logo/淮安涟水综合.png" group-title="江苏频道",淮安涟水综合
+http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+#EXTINF:-1,tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="https://11.112114.xyz/logo/江阴新闻综合.png" group-title="江苏频道",江阴新闻综合
+http://221.228.70.101:8080/live/xinwen.m3u8
+
+
 
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="精彩频道",优漫卡通
 http://112.86.202.37:8112/JSBC_iptv/C10000228@JSBC
