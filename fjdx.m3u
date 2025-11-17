@@ -116,9 +116,9 @@ http://27.148.240.138/PLTV/88888888/224/3221227335/1.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://27.148.240.138/PLTV/88888888/224/3221227344/1.m3u8
 
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视频道",凤凰资讯台
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="凤凰频道",凤凰资讯台
 http://27.148.240.138/PLTV/88888888/224/3221226929/1.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视频道",凤凰中文台
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="凤凰频道",凤凰中文台
 http://27.148.240.138/PLTV/88888888/224/3221226980/1.m3u8
 
 #EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://epg.112114.xyz/logo/福建综合.png" group-title="福建频道",福建综合
@@ -139,6 +139,75 @@ http://27.148.240.138/PLTV/88888888/224/3221226920/1.m3u8
 http://27.148.240.138/PLTV/88888888/224/3221226928/1.m3u8
 #EXTINF:-1,tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://epg.112114.xyz/logo/福建旅游.png" group-title="福建频道",福建旅游
 http://27.148.240.138/PLTV/88888888/224/3221226854/1.m3u8
+
+#EXTINF:-1,tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="地方频道",江西都市频道
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_jxtv2.m3u8
+#EXTINF:-1,tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="地方频道",江西经济生活
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_jxtv3.m3u8
+#EXTINF:-1,tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" group-title="地方频道",江西影视旅游
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_jxtv4.m3u8
+#EXTINF:-1,tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="地方频道",江西公共农业
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_jxtv5.m3u8
+#EXTINF:-1,tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="地方频道",江西少儿频道
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_jxtv6.m3u8
+#EXTINF:-1,tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="地方频道",江西新闻
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_jxtv7.m3u8
+#EXTINF:-1,tvg-id="南昌综合" tvg-name="南昌综合" tvg-logo="https://epg.112114.xyz/logo/南昌综合.png" group-title="地方频道",南昌综合
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_nanchang.m3u8
+#EXTINF:-1,tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://epg.112114.xyz/logo/南昌新闻综合.png" group-title="地方频道",南昌新闻综合
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_nanchang.m3u8
+#EXTINF:-1,tvg-id="赣州综合" tvg-name="赣州综合" tvg-logo="https://epg.112114.xyz/logo/赣州综合.png" group-title="地方频道",赣州综合
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_ganzhou.m3u8
+#EXTINF:-1,tvg-id="九江综合" tvg-name="九江综合" tvg-logo="https://epg.112114.xyz/logo/九江综合.png" group-title="地方频道",九江综合
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_jiujiang.m3u8
+#EXTINF:-1,tvg-id="吉安新闻综合" tvg-name="吉安新闻综合" tvg-logo="https://epg.112114.xyz/logo/吉安新闻综合.png" group-title="地方频道",吉安新闻综合
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_jian.m3u8
+#EXTINF:-1,tvg-id="抚州综合" tvg-name="抚州综合" tvg-logo="https://epg.112114.xyz/logo/抚州综合.png" group-title="地方频道",抚州综合
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_fuzhou.m3u8
+#EXTINF:-1,tvg-id="上饶新闻综合" tvg-name="上饶新闻综合" tvg-logo="https://epg.112114.xyz/logo/上饶新闻综合.png" group-title="地方频道",上饶新闻综合
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_shangrao.m3u8
+#EXTINF:-1,tvg-id="新余新闻" tvg-name="新余新闻" tvg-logo="https://epg.112114.xyz/logo/新余新闻.png" group-title="地方频道",新余新闻
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_xinyu.m3u8
+#EXTINF:-1,tvg-id="宜春新闻" tvg-name="宜春新闻" tvg-logo="https://epg.112114.xyz/logo/宜春新闻.png" group-title="地方频道",宜春新闻
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_yichun.m3u8
+#EXTINF:-1,tvg-id="萍乡综合" tvg-name="萍乡综合" tvg-logo="https://epg.112114.xyz/logo/萍乡综合.png" group-title="地方频道",萍乡综合
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_pingxiang.m3u8
+#EXTINF:-1,tvg-id="景德镇综合" tvg-name="景德镇综合" tvg-logo="https://epg.112114.xyz/logo/景德镇综合.png" group-title="地方频道",景德镇综合
+https://play-live-hls.jxtvcn.com.cn:443/live-city/tv_jingdezhen.m3u8
+#EXTINF:-1,tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="地方频道",江西都市频道
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
+#EXTINF:-1,tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="地方频道",江西经济生活
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+#EXTINF:-1,tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" group-title="地方频道",江西影视旅游
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
+#EXTINF:-1,tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="地方频道",江西公共农业
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
+#EXTINF:-1,tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="地方频道",江西少儿频道
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+#EXTINF:-1,tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="地方频道",江西新闻
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv7.m3u8
+#EXTINF:-1,tvg-id="南昌综合" tvg-name="南昌综合" tvg-logo="https://epg.112114.xyz/logo/南昌综合.png" group-title="地方频道",南昌综合
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
+#EXTINF:-1,tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://epg.112114.xyz/logo/南昌新闻综合.png" group-title="地方频道",南昌新闻综合
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
+#EXTINF:-1,tvg-id="赣州综合" tvg-name="赣州综合" tvg-logo="https://epg.112114.xyz/logo/赣州综合.png" group-title="地方频道",赣州综合
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_ganzhou.m3u8
+#EXTINF:-1,tvg-id="九江综合" tvg-name="九江综合" tvg-logo="https://epg.112114.xyz/logo/九江综合.png" group-title="地方频道",九江综合
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jiujiang.m3u8
+#EXTINF:-1,tvg-id="吉安新闻综合" tvg-name="吉安新闻综合" tvg-logo="https://epg.112114.xyz/logo/吉安新闻综合.png" group-title="地方频道",吉安新闻综合
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jian.m3u8
+#EXTINF:-1,tvg-id="抚州综合" tvg-name="抚州综合" tvg-logo="https://epg.112114.xyz/logo/抚州综合.png" group-title="地方频道",抚州综合
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_fuzhou.m3u8
+#EXTINF:-1,tvg-id="上饶新闻综合" tvg-name="上饶新闻综合" tvg-logo="https://epg.112114.xyz/logo/上饶新闻综合.png" group-title="地方频道",上饶新闻综合
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_shangrao.m3u8
+#EXTINF:-1,tvg-id="新余新闻" tvg-name="新余新闻" tvg-logo="https://epg.112114.xyz/logo/新余新闻.png" group-title="地方频道",新余新闻
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_xinyu.m3u8
+#EXTINF:-1,tvg-id="宜春新闻" tvg-name="宜春新闻" tvg-logo="https://epg.112114.xyz/logo/宜春新闻.png" group-title="地方频道",宜春新闻
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_yichun.m3u8
+#EXTINF:-1,tvg-id="萍乡综合" tvg-name="萍乡综合" tvg-logo="https://epg.112114.xyz/logo/萍乡综合.png" group-title="地方频道",萍乡综合
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_pingxiang.m3u8
+#EXTINF:-1,tvg-id="景德镇综合" tvg-name="景德镇综合" tvg-logo="https://epg.112114.xyz/logo/景德镇综合.png" group-title="地方频道",景德镇综合
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jingdezhen.m3u8
 
 
 #EXTINF:-1,tvg-id="华数经典电影" tvg-name="华数经典电影" tvg-logo="https://epg.112114.xyz/logo/华数经典电影.png" group-title="高清频道",华数经典电影
