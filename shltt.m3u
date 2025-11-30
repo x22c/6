@@ -34,8 +34,6 @@ http://10.223.3.189:80/PLTV/88888888/224/3221225892/1000010000000006000000000155
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视频道",CGTN
 http://10.223.3.189:80/PLTV/88888888/224/3221225652/10000100000000060000000000012463_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EA-5GIYsrbJQWqWx6r_8O1Q%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F1354%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000012463_0%2CEND
 
-
-#EXTM3U
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://10.223.3.189:80/PLTV/88888888/224/3221225699/10000100000000060000000000013594_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ExdGburiPn7SkpFEqvhsNPw%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F111131%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000013594_0%2CEND
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视频道",北京卫视
@@ -96,12 +94,15 @@ https://181166.xyz/wxty2
 https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育{V6网络专用}
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/275/202107191641_5100001716_H169_1080.jpg" group-title="上海频道",上海新闻综合
-http://iptv.666230.xyz/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/migu.php?id=shzh
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/274/202105271333_5100001715_2_HSJ720H.jpg" group-title="上海频道",上海东方影视
-http://iptv.666230.xyz/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/migu.php?id=dfys
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/008/312/202209271630_2201008312_H169_1080.jpg" group-title="上海频道",上海第一财经
-https://my5353.com/DuG37
+
+#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海频道",上海新闻综合
+http://k.061899.xyz/k.php?id=shxw
+#EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="上海频道",上海东方影视
+http://k.061899.xyz/k.php?id=shys
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://11.112114.xyz/logo/上海第一财经.png" group-title="上海频道",上海第一财经
+http://k.061899.xyz/k.php?id=dycj
+
+
 #EXTINF:-1,tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海频道",东方购物
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://11.112114.xyz/logo/点掌财经.png" group-title="上海频道",点掌财经
@@ -110,36 +111,7 @@ https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 http://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海备用",东方卫视
-http://cdn.jdshipin.com/kdf.php?id=22
-#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海备用",上海新闻综合
-http://cdn.jdshipin.com/kdf.php?id=20
-#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海备用",第一财经
-http://cdn.jdshipin.com/kdf.php?id=21
-#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海备用",上海都市
-http://cdn.jdshipin.com/kdf.php?id=18
-#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海备用",五星体育
-http://cdn.jdshipin.com/kdf.php?id=1605
-#EXTINF:-1,tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://epg.112114.xyz/logo/上海新纪实.png" group-title="上海备用",上海新纪实
-http://cdn.jdshipin.com/kdf.php?id=1600
-#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海备用",乐游
-http://cdn.jdshipin.com/kdf.php?id=1745
-#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="上海备用",东方影视
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfys
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海备用",东方卫视
-http://cdn.jdshipin.com/kkxw.php?id=1
-#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海备用",上海新闻综合
-http://cdn.jdshipin.com/kkxw.php?id=2
-#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海备用",上海都市
-http://cdn.jdshipin.com/kkxw.php?id=4
-#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海备用",第一财经
-http://cdn.jdshipin.com/kkxw.php?id=5
-#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海备用",五星体育
-http://cdn.jdshipin.com/kkxw.php?id=10
-#EXTINF:-1,tvg-id="上海魔都眼" tvg-name="上海魔都眼" tvg-logo="https://epg.112114.xyz/logo/上海魔都眼.png" group-title="上海备用",上海魔都眼
-http://cdn.jdshipin.com/kkxw.php?id=11
-#EXTINF:-1,tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://epg.112114.xyz/logo/上海新纪实.png" group-title="上海备用",上海新纪实
-http://cdn.jdshipin.com/kkxw.php?id=12
+
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海备用",上海新闻
 http://live.zhongping.jsinfo.net:6060/live/program/live/xwzhhd8m/8000000/mnf.m3u8?m3u8_level=2
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海备用",上海都市
