@@ -161,166 +161,204 @@ CCTV-老故事,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226739/
 咪咕视频 𝟛𝟟,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
 咪咕视频 𝟛𝟠,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
+备用线路1,#genre#
+CCTV1,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131
+CCTV2,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000357
+CCTV3,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
+CCTV4,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000409
+CCTV4欧洲,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000558
+CCTV4美洲,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000559
+CCTV5,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000322
+CCTV5+,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000503
+CCTV6,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000392
+CCTV7,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000358
+CCTV8,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000393
+CCTV9,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000359
+CCTV10,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000360
+CCTV11,rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000583
+CCTV12,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000361
+CCTV13,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000514
+CCTV14,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000362
+CCTV15,rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000587
+CCTV16,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
+CCTV17,rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000580
+CCTV4K,rtsp://111.48.34.138:1554/170000004112/HBGD9935055570721873923307127370
+兵器科技,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000307
+风云音乐,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000319
+风云足球,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000310
+怀旧剧场,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000318
+第一剧场,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000305
+女性时尚,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000315
+世界地理,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000320
+央视台球,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000348
+高尔夫网球,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000312
+电视指南,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000316
+老故事,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000314
+中学生,rtsp://111.48.34.138:1554/170000004112/HBGD1086708833718050816962827426
+湖南卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000174
+浙江卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000195
+江苏卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000177
+东方卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000198
+深圳卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000176
+北京卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000173
+广东卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000197
+广西卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000515
+东南卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000346
+海南卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000442
+河北卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000447
+河南卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000463
+湖北卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000194
+湖北经视,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588
+湖北综合,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444593
+湖北影视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000518
+湖北公共新闻,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444582
+湖北教育,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519
+湖北生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000517
+湖北垄上,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444600
+江西卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000396
+四川卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000464
+重庆卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000418
+贵州卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000419
+云南卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000038
+天津卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000323
+安徽卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000325
+山东卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000324
+辽宁卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000326
+黑龙江卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000175
+吉林卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000528
+内蒙古卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000148
+宁夏卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000060
+山西卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000077
+陕西卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000068
+甘肃卫视,rtsp://111.48.34.138:1554/170000004112/HBGD8790008720259235848417405421
+青海卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000074
+新疆卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000075
+西藏卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000078
+厦门卫视,rtsp://111.48.34.138:1554/170000004112/HBGD8213740706910740489902289856
+三沙卫视,rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000589
+兵团卫视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000516
+延边卫视,rtsp://111.48.34.138:1554/170000004112/HBGD8790062031491768322269017598
+康巴卫视,rtsp://111.48.34.138:1554/170000004112/HBGD8790066950704414726368066759
+山东教育,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000553
+CETV1,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000342
+CETV2,rtsp://111.48.34.138:1554/170000004112/00005000000000000000000000000251
+CETV4,rtsp://111.48.34.138:1554/170000004112/00005000000000000000000000000252
+CHC动作电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000523
+CHC家庭影院,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000522
+CHC影迷电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000539
+凤凰中文,rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306
+凤凰资讯,rtsp://111.48.34.138:1554/170000004112/HBGD1097583896160083968342677179
+睛彩青少,http://111.48.246.74/000000001000PLTV/88888888/224/3221230584/1.m3u8
+睛彩篮球,http://111.48.246.74/000000001000PLTV/88888888/224/3221230336/1.m3u8
+睛彩竞技,http://111.48.246.74/000000001000PLTV/88888888/224/3221230371/1.m3u8
+睛彩广场舞,http://111.48.246.74/000000001000PLTV/88888888/224/3221230582/1.m3u8
+魅力足球,rtsp://111.48.34.138:1554/170000004112/HBGD9805142106550681606189861515
+金鹰纪实,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000343
+茶频道,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000425
+先锋乒羽,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000423
+快乐垂钓,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000421
+四海钓鱼,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000531
+国学,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000284
+书画,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000424
+环球奇观,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000282
+汽摩,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000313
+武术世界,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000291
+梨园,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000301
+文物宝库,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000293
+东方财经,rtsp://111.48.34.138:1554/170000004112/HBGD9805155468386877444139298202
+乐游,rtsp://111.48.34.138:1554/170000004112/HBGD9805144459512381444870761474
+欢笑剧场,http://111.48.246.74/000000001000PLTV/88888888/224/3221230553/1.m3u8
+生活时尚,rtsp://111.48.34.138:1554/170000004112/HBGD9805148106502553603872020055
+都市剧场,rtsp://111.48.34.138:1554/170000004112/HBGD9805154232409374729511476870
+游戏风云,rtsp://111.48.34.138:1554/170000004112/HBGD9805158189928775682657390008
+金色学堂,rtsp://111.48.34.138:1554/170000004112/HBGD9805145630420992009556577523
+法治天地,rtsp://111.48.34.138:1554/170000004112/HBGD9805147123567411206852572153
+动漫秀场,rtsp://111.48.34.138:1554/170000004112/HBGD9805143433502638082196954568
+卡酷少儿,rtsp://111.48.34.138:1554/170000004112/HBGD7833080911839600643336215800
+金鹰卡通,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000613
+哈哈炫动,http://111.48.246.74/000000001000PLTV/88888888/224/3221230578/1.m3u8
+嘉佳卡通,http://111.48.246.74/000000001000PLTV/88888888/224/3221230580/1.m3u8
+新动漫,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000500
+中国交通,rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
 
 
-#EXTM3U url-tvg="http://epg3.733240.com/pp.xml,http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226113/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226691/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226731/1.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV2
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视",CCTV3
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226632/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视",CCTV4
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226683/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视",CCTV5
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226640/1.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视",CCTV6
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226643/1.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226687/1.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视",CCTV8
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226635/1.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视",CCTV9
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226571/1.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视",CCTV10
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226680/1.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视",CCTV11
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226684/1.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视",CCTV12
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视",CCTV13
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226688/1.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视",CCTV14
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226685/1.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视",CCTV15
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226677/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视",CCTV5+
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226641/1.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视",CCTV17
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226642/1.m3u8
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" group-title="央视",央视台球
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226716/1.m3u8
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" group-title="央视",风云足球
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226719/1.m3u8
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" group-title="央视",世界地理
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226720/1.m3u8
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" group-title="央视",兵器科技
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226723/1.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="其他",欢笑剧场
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" group-title="央视",老故事
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226739/1.m3u8
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" group-title="央视",第一剧场
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" group-title="央视",高尔夫网球
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226742/1.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="其他",CHC动作电影
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226673/1.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="其他",CHC家庭影院
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226676/1.m3u8
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="其他",CHC影迷电影
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226681/1.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226117/1.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226674/1.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226682/1.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视",东南卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视",贵州卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视",海南卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视",河北卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226252/1.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226663/1.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视",广西卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226570/1.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226693/1.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226695/1.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视",安徽卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226696/1.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226697/1.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226700/1.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226701/1.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226702/1.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视",深圳卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226703/1.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视",陕西卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226721/1.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226724/1.m3u8
-#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" group-title="卫视",康巴卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226725/1.m3u8
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226726/1.m3u8
-#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" group-title="卫视",延边卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226732/1.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226718/1.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226164/1.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226166/1.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视",新疆卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226168/1.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视",西藏卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226169/1.m3u8
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视",兵团卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226173/1.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226174/1.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226689/1.m3u8
-#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" group-title="湖北",湖北综合
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/1.m3u8
-#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" group-title="湖北",湖北经视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
-#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" group-title="湖北",湖北教育
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226646/1.m3u8
-#EXTINF:-1 tvg-id="湖北公共·新闻" tvg-name="湖北公共·新闻" group-title="湖北",湖北公共
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226626/1.m3u8
-#EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" group-title="湖北",湖北垄上
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/1.m3u8
-#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" group-title="湖北",湖北影视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/1.m3u8
-#EXTINF:-1 tvg-id="湖北生活" tvg-name="湖北生活" group-title="湖北",湖北生活
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/1.m3u8
-#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" group-title="湖北",湖北教育
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226646/1.m3u8
-#EXTINF:-1 tvg-id="湖北公共·新闻" tvg-name="湖北公共·新闻" group-title="湖北",湖北公共
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226626/1.m3u8
-#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" group-title="湖北",湖北综合
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/1.m3u8
-#EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" group-title="湖北",湖北垄上
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/1.m3u8
-#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" group-title="湖北",湖北经视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
-#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" group-title="湖北",湖北影视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/1.m3u8
-#EXTINF:-1 tvg-id="湖北生活" tvg-name="湖北生活" group-title="湖北",湖北生活
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/1.m3u8
+备用线路2,#genre#
+CCTV1,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226691/1.m3u8
+CCTV1,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226731/1.m3u8
+CCTV2,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8
+CCTV3,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226632/1.m3u8
+CCTV4,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226683/1.m3u8
+CCTV5,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226640/1.m3u8
+CCTV6,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226643/1.m3u8
+CCTV7,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226687/1.m3u8
+CCTV8,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226635/1.m3u8
+CCTV9,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226571/1.m3u8
+CCTV10,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226680/1.m3u8
+CCTV11,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226684/1.m3u8
+CCTV12,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
+CCTV13,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226688/1.m3u8
+CCTV14,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226685/1.m3u8
+CCTV15,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226677/1.m3u8
+CCTV5+,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226641/1.m3u8
+CCTV17,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226642/1.m3u8
+央视台球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226716/1.m3u8
+风云足球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226719/1.m3u8
+世界地理,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226720/1.m3u8
+兵器科技,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226723/1.m3u8
+欢笑剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
+老故事,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226739/1.m3u8
+第一剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226736/1.m3u8
+高尔夫网球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226742/1.m3u8
+CHC动作电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226673/1.m3u8
+CHC家庭影院,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226676/1.m3u8
+CHC影迷电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226681/1.m3u8
+湖南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226117/1.m3u8
+东方卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226674/1.m3u8
+江苏卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226682/1.m3u8
+东南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
+重庆卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
+贵州卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
+海南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+河北卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
+四川卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226252/1.m3u8
+云南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8
+三沙卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226663/1.m3u8
+广西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226570/1.m3u8
+吉林卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8
+天津卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226693/1.m3u8
+山东卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226695/1.m3u8
+安徽卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226696/1.m3u8
+河南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226697/1.m3u8
+广东卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226700/1.m3u8
+浙江卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226701/1.m3u8
+江西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226702/1.m3u8
+深圳卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226703/1.m3u8
+陕西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226708/1.m3u8
+甘肃卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226721/1.m3u8
+黑龙江卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226724/1.m3u8
+康巴卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226725/1.m3u8
+厦门卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226726/1.m3u8
+延边卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226732/1.m3u8
+辽宁卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226718/1.m3u8
+青海卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226164/1.m3u8
+内蒙古卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226166/1.m3u8
+新疆卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226168/1.m3u8
+西藏卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226169/1.m3u8
+兵团卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
+宁夏卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226173/1.m3u8
+山西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226174/1.m3u8
+湖北卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226689/1.m3u8
+湖北综合,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/1.m3u8
+湖北经视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
+湖北教育,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226646/1.m3u8
+湖北公共,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226626/1.m3u8
+湖北垄上,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/1.m3u8
+湖北影视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/1.m3u8
+湖北生活,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/1.m3u8
+湖北教育,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226646/1.m3u8
+湖北公共,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226626/1.m3u8
+湖北综合,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/1.m3u8
+湖北垄上,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/1.m3u8
+湖北经视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
+湖北影视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/1.m3u8
+湖北生活,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/1.m3u8
