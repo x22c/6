@@ -428,7 +428,7 @@ http://10.255.128.136/PLTV/88888888/224/3221226179/10000100000000060000000000602
 http://10.255.128.136/PLTV/88888888/224/3221226178/10000100000000060000000000602925_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="备用频道",动漫秀场频道
 http://10.255.128.136/PLTV/88888888/224/3221226183/10000100000000060000000000602968_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://11.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教频道
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://11.112114.xyz/logo/北京纪实.png" group-title="备用频道",北京纪实科教频道
 http://10.255.128.136/PLTV/88888888/224/3221225655/10000100000000060000000000000192_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://11.112114.xyz/logo/茶.png" group-title="备用频道",茶频道
 http://10.255.128.136/PLTV/88888888/224/3221225831/10000100000000060000000000264072_0.smil/index.m3u8?fmt=ts2hls
