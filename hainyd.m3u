@@ -1,0 +1,221 @@
+#EXTM3U x-tvg-url="https://diyp0731.112114.xyz/pp.xml.gz" 
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视",CCTV-1高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010144/1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png" group-title="央视",CCTV-2高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010211/1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视",CCTV-3高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010212/.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.404003.xyz/LOGO/CCTV4.png" group-title="央视",CCTV-4高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010017/.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="央视",CCTV-5高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010145/.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.404003.xyz/LOGO/CCTV5+.png" group-title="央视",CCTV-5+高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010202/1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="央视",CCTV-6高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010214/.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.404003.xyz/LOGO/CCTV7.png" group-title="央视",CCTV-7高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010215/1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="央视",CCTV-8高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010216/.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.404003.xyz/LOGO/CCTV9.png" group-title="央视",CCTV-9纪录
+http://www.hiiptv.cn:6060/200000001898/460000089800010217/1.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.404003.xyz/LOGO/CCTV10.png" group-title="央视",CCTV-10高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010203/1.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.404003.xyz/LOGO/CCTV11.png" group-title="央视",CCTV-11高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010092/.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.404003.xyz/LOGO/CCTV12.png" group-title="央视",CCTV-12高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010205/1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.404003.xyz/LOGO/CCTV13.png" group-title="央视",CCTV-13高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010093/1.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.404003.xyz/LOGO/CCTV14.png" group-title="央视",CCTV-14高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010207/1.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.404003.xyz/LOGO/CCTV15.png" group-title="央视",CCTV-15高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010094/.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png" group-title="央视",CCTV-16高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010142/.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.404003.xyz/LOGO/CCTV17.png" group-title="央视",CCTV-17高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010210/1.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.404003.xyz/LOGO/三沙卫视.png" group-title="卫视",三沙卫视高清
+http://www.hiiptv.cn:6060/000000001000/4600001000000000117/1.m3u8?Contentid=4600001000000000117&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://live.404003.xyz/LOGO/东北热剧.png" group-title="NewTV",东北热剧
+http://www.hiiptv.cn:6060/200000001898/460000089800010021/.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.404003.xyz/LOGO/东南卫视.png" group-title="卫视",东南卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010096/.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.404003.xyz/LOGO/东方卫视.png" group-title="卫视",东方卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010219/1.m3u8
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://live.404003.xyz/LOGO/中国功夫.png" group-title="NewTV",中国功夫
+http://www.hiiptv.cn:6060/200000001898/460000089800010087/1.m3u8
+#EXTINF:-1 tvg-id="中国教育1" tvg-name="中国教育1" tvg-logo="https://live.404003.xyz/LOGO/中国教育1.png" group-title="数字",中国教育-1高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010103/.m3u8
+#EXTINF:-1 tvg-id="中国教育2套" tvg-name="中国教育2套" tvg-logo="https://live.404003.xyz/LOGO/中国教育2套.png" group-title="数字",中国教育2套标清
+http://www.hiiptv.cn:6060/200000001898/460000089800010104/.m3u8
+#EXTINF:-1 tvg-id="中国教育4套" tvg-name="中国教育4套" tvg-logo="https://live.404003.xyz/LOGO/中国教育4套.png" group-title="数字",中国教育4套
+http://www.hiiptv.cn:6060/200000001898/460000089800010105/1.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.404003.xyz/LOGO/云南卫视.png" group-title="卫视",云南卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010119/.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.404003.xyz/LOGO/优漫卡通.png" group-title="数字",优漫卡通高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010118/.m3u8
+#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.404003.xyz/LOGO/健康养生.png" group-title="BesTV",健康养生
+http://www.hiiptv.cn:6060/200000001898/460000089800010132/.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.404003.xyz/LOGO/内蒙古卫视.png" group-title="卫视",内蒙古卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010109/.m3u8
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://live.404003.xyz/LOGO/军事评论.png" group-title="NewTV",军事评论
+http://www.hiiptv.cn:6060/200000001898/460000089800010080/1.m3u8
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://live.404003.xyz/LOGO/军旅剧场.png" group-title="NewTV",军旅剧场
+http://www.hiiptv.cn:6060/200000001898/460000089800010079/1.m3u8
+#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://live.404003.xyz/LOGO/农业致富.png" group-title="NewTV",农业致富
+http://www.hiiptv.cn:6060/200000001898/460000089800010085/1.m3u8
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://live.404003.xyz/LOGO/动作电影.png" group-title="NewTV",动作电影
+http://www.hiiptv.cn:6060/200000001898/460000089800010003/.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.404003.xyz/LOGO/北京卫视.png" group-title="卫视",北京卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010143/1.m3u8
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://live.404003.xyz/LOGO/古装剧场.png" group-title="NewTV",古装剧场
+http://www.hiiptv.cn:6060/200000001898/460000089800010004/1.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.404003.xyz/LOGO/吉林卫视.png" group-title="卫视",吉林卫视（标清）
+http://www.hiiptv.cn:6060/200000001898/460000089800010075/.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.404003.xyz/LOGO/哒啵赛事.png" group-title="NewTV",哒啵赛事
+http://www.hiiptv.cn:6060/200000001898/460000089800010120/1.m3u8
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.404003.xyz/LOGO/嘉佳卡通.png" group-title="数字",嘉佳卡通
+http://www.hiiptv.cn:6060/200000001898/460000089800010102/1.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.404003.xyz/LOGO/四川卫视.png" group-title="卫视",四川卫视标清
+http://www.hiiptv.cn:6060/200000001898/460000089800010115/.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.404003.xyz/LOGO/天津卫视.png" group-title="卫视",天津卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010069/1.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.404003.xyz/LOGO/宁夏卫视.png" group-title="卫视",宁夏卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010110/.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.404003.xyz/LOGO/安徽卫视.png" group-title="卫视",安徽卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010041/1.m3u8
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://live.404003.xyz/LOGO/家庭剧场.png" group-title="NewTV",家庭剧场
+http://www.hiiptv.cn:6060/200000001898/460000089800010074/1.m3u8
+#EXTINF:-1 tvg-id="家电食品" tvg-name="家电食品" tvg-logo="https://live.404003.xyz/LOGO/家电食品.png" group-title="其他",家电食品
+http://www.hiiptv.cn:6060/200000001898/460000089800010133/.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.404003.xyz/LOGO/山东卫视.png" group-title="卫视",山东卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010066/1.m3u8
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.404003.xyz/LOGO/山东教育.png" group-title="山东",山东教育高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010112/.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.404003.xyz/LOGO/山西卫视.png" group-title="卫视",山西卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010114/.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.404003.xyz/LOGO/广东卫视.png" group-title="卫视",广东卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010221/1.m3u8
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.404003.xyz/LOGO/广东珠江.png" group-title="广东",广东珠江
+http://www.hiiptv.cn:6060/200000001898/460000089800010091/1.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.404003.xyz/LOGO/广西卫视.png" group-title="卫视",广西卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010099/.m3u8
+#EXTINF:-1 tvg-id="康养保健" tvg-name="康养保健" tvg-logo="https://live.404003.xyz/LOGO/康养保健.png" group-title="其他",康养保健
+http://www.hiiptv.cn:6060/200000001898/460000089800010129/.m3u8
+#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://live.404003.xyz/LOGO/怡伴健康.png" group-title="NewTV",怡伴健康
+http://www.hiiptv.cn:6060/200000001898/460000089800010082/1.m3u8
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://live.404003.xyz/LOGO/惊悚悬疑.png" group-title="NewTV",惊悚悬疑
+http://www.hiiptv.cn:6060/200000001898/460000089800010077/.m3u8
+#EXTINF:-1 tvg-id="文化收藏" tvg-name="文化收藏" tvg-logo="https://live.404003.xyz/LOGO/文化收藏.png" group-title="数字",文化收藏
+http://www.hiiptv.cn:6060/200000001898/460000089800010134/.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.404003.xyz/LOGO/新疆卫视.png" group-title="卫视",新疆卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010116/.m3u8
+#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://live.404003.xyz/LOGO/欢乐剧场.png" group-title="NewTV",欢乐剧场
+http://www.hiiptv.cn:6060/200000001898/460000089800010025/.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.404003.xyz/LOGO/江苏卫视.png" group-title="卫视",江苏卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010225/1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.404003.xyz/LOGO/江西卫视.png" group-title="卫视",江西卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010060/1.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.404003.xyz/LOGO/河北卫视.png" group-title="卫视",河北卫视标清
+http://www.hiiptv.cn:6060/200000001898/460000089800010101/.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.404003.xyz/LOGO/河南卫视.png" group-title="卫视",河南卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010071/1.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视.png" group-title="卫视",浙江卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010070/1.m3u8
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.404003.xyz/LOGO/海南公共.png" group-title="海南",海南公共高清
+http://www.hiiptv.cn:6060/000000001000/460000100000000057/1.m3u8?Contentid=460000100000000057&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.404003.xyz/LOGO/海南卫视.png" group-title="卫视",海南卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010083/1.m3u8
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.404003.xyz/LOGO/海南少儿.png" group-title="海南",海南少儿高清
+http://www.hiiptv.cn:6060/000000001000/4600001000000000112/1.m3u8?Contentid=4600001000000000112&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.404003.xyz/LOGO/海南文旅.png" group-title="海南",海南文旅高清
+http://www.hiiptv.cn:6060/000000001000/4600001000000000165/1.m3u8?Contentid=4600001000000000165&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://live.404003.xyz/LOGO/海南新闻.png" group-title="海南",海南新闻高清
+http://www.hiiptv.cn:6060/000000001000/4600001000000000111/1.m3u8?Contentid=4600001000000000111&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://live.404003.xyz/LOGO/海南自贸.png" group-title="海南",海南自贸高清
+http://www.hiiptv.cn:6060/000000001000/4600001000000000164/1.m3u8?Contentid=4600001000000000164&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="海口1台" tvg-name="海口1台" tvg-logo="https://live.404003.xyz/LOGO/海口1台.png" group-title="海南",海口1台
+http://www.hiiptv.cn:6060/000000001000/460000100000000071/1.m3u8?Contentid=460000100000000071&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="海口2台" tvg-name="海口2台" tvg-logo="https://live.404003.xyz/LOGO/海口2台.png" group-title="海南",海口2台
+http://www.hiiptv.cn:6060/000000001000/460000100000000077/1.m3u8?Contentid=460000100000000077&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="海口3台" tvg-name="海口3台" tvg-logo="https://live.404003.xyz/LOGO/海口3台.png" group-title="海南",海口3台
+http://www.hiiptv.cn:6060/000000001000/460000100000000072/1.m3u8?Contentid=460000100000000072&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="三亚1台" tvg-name="三亚1台" tvg-logo="https://live.404003.xyz/LOGO/三亚1台.png" group-title="海南",三亚1台
+http://www.hiiptv.cn:6060/000000001000/460000100000000074/1.m3u8?Contentid=460000100000000074&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.404003.xyz/LOGO/深圳卫视.png" group-title="卫视",深圳卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010068/1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.404003.xyz/LOGO/湖北卫视.png" group-title="卫视",湖北卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010223/1.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.404003.xyz/LOGO/湖南卫视.png" group-title="卫视",湖南卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010224/1.m3u8
+#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://live.404003.xyz/LOGO/潮妈辣婆.png" group-title="NewTV",潮妈辣婆
+http://www.hiiptv.cn:6060/200000001898/460000089800010005/1.m3u8
+#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://live.404003.xyz/LOGO/炫舞未来.png" group-title="NewTV",炫舞未来
+http://www.hiiptv.cn:6060/200000001898/460000089800010039/1.m3u8
+#EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="https://live.404003.xyz/LOGO/热播精选.png" group-title="NewTV",热播精选
+http://www.hiiptv.cn:6060/200000001898/460000089800010121/1.m3u8
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://live.404003.xyz/LOGO/爱情喜剧.png" group-title="NewTV",爱情喜剧
+http://www.hiiptv.cn:6060/200000001898/460000089800010000/1.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.404003.xyz/LOGO/甘肃卫视.png" group-title="卫视",甘肃卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010098/.m3u8
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.404003.xyz/LOGO/睛彩广场舞.png" group-title="咪咕",睛彩广场舞
+http://www.hiiptv.cn:6060/200000001898/460000089800010233/1.m3u8
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://live.404003.xyz/LOGO/睛彩竞技.png" group-title="咪咕",睛彩竞技
+http://www.hiiptv.cn:6060/000000001000/1000000006000270001/1.m3u8?Contentid=1000000006000270001&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://live.404003.xyz/LOGO/睛彩篮球.png" group-title="咪咕",睛彩篮球
+http://www.hiiptv.cn:6060/000000001000/1000000006000270002/1.m3u8?Contentid=1000000006000270002&stbId=005103FF00010060000100E400F75DA4
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.404003.xyz/LOGO/睛彩青少.png" group-title="咪咕",睛彩青少
+http://www.hiiptv.cn:6060/200000001898/460000089800010147/.m3u8
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.404003.xyz/LOGO/精品体育.png" group-title="NewTV",精品体育
+http://www.hiiptv.cn:6060/200000001898/460000089800010078/.m3u8
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://live.404003.xyz/LOGO/精品大剧.png" group-title="NewTV",精品大剧
+http://www.hiiptv.cn:6060/200000001898/460000089800010072/.m3u8
+#EXTINF:-1 tvg-id="精品家居" tvg-name="精品家居" tvg-logo="https://live.404003.xyz/LOGO/精品家居.png" group-title="其他",精品家居
+http://www.hiiptv.cn:6060/200000001898/460000089800010088/.m3u8
+#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://live.404003.xyz/LOGO/精品纪录.png" group-title="NewTV",精品纪录
+http://www.hiiptv.cn:6060/200000001898/460000089800010076/1.m3u8
+#EXTINF:-1 tvg-id="精品综合" tvg-name="精品综合" tvg-logo="https://live.404003.xyz/LOGO/精品综合.png" group-title="NewTV",精品综合
+http://www.hiiptv.cn:6060/200000001898/460000089800010084/1.m3u8
+#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://live.404003.xyz/LOGO/精品萌宠.png" group-title="NewTV",精品萌宠
+http://www.hiiptv.cn:6060/200000001898/460000089800010146/.m3u8
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.404003.xyz/LOGO/纯享4K.png" group-title="数字",纯享4K
+http://www.hiiptv.cn:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:-1 tvg-id="营养饮食" tvg-name="营养饮食" tvg-logo="https://live.404003.xyz/LOGO/营养饮食.png" group-title="其他",营养饮食
+http://www.hiiptv.cn:6060/200000001898/460000089800010089/1.m3u8
+#EXTINF:-1 tvg-id="西藏卫视藏语" tvg-name="西藏卫视藏语" tvg-logo="https://live.404003.xyz/LOGO/西藏卫视藏语.png" group-title="卫视",西藏卫视藏语
+http://www.hiiptv.cn:6060/200000001898/460000089800010123/1.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.404003.xyz/LOGO/贵州卫视.png" group-title="卫视",贵州卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010100/.m3u8
+#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://live.404003.xyz/LOGO/超级体育.png" group-title="NewTV",超级体育
+http://www.hiiptv.cn:6060/200000001898/460000089800010063/1.m3u8
+#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://live.404003.xyz/LOGO/超级电影.png" group-title="NewTV",超级电影
+http://www.hiiptv.cn:6060/200000001898/460000089800010064/1.m3u8
+#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://live.404003.xyz/LOGO/超级电视剧.png" group-title="NewTV",超级电视剧
+http://www.hiiptv.cn:6060/200000001898/460000089800010065/1.m3u8
+#EXTINF:-1 tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="https://live.404003.xyz/LOGO/超级综艺.png" group-title="NewTV",超级综艺
+http://www.hiiptv.cn:6060/200000001898/460000089800010062/1.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.404003.xyz/LOGO/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010061/1.m3u8
+#EXTINF:-1 tvg-id="运动文旅" tvg-name="运动文旅" tvg-logo="https://live.404003.xyz/LOGO/运动文旅.png" group-title="其他",运动文旅
+http://www.hiiptv.cn:6060/200000001898/460000089800010131/.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.404003.xyz/LOGO/重庆卫视.png" group-title="卫视",重庆卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010218/1.m3u8
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://live.404003.xyz/LOGO/金牌综艺.png" group-title="NewTV",金牌综艺
+http://www.hiiptv.cn:6060/200000001898/460000089800010086/.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.404003.xyz/LOGO/金鹰卡通.png" group-title="数字",金鹰卡通高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010107/.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.404003.xyz/LOGO/金鹰纪实.png" group-title="数字",金鹰纪实
+http://www.hiiptv.cn:6060/200000001898/460000089800010106/1.m3u8
+#EXTINF:-1 tvg-id="银发生活" tvg-name="银发生活" tvg-logo="https://live.404003.xyz/LOGO/银发生活.png" group-title="其他",银发生活
+http://www.hiiptv.cn:6060/200000001898/460000089800010097/1.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.404003.xyz/LOGO/陕西卫视.png" group-title="卫视",陕西卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010113/.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.404003.xyz/LOGO/青海卫视.png" group-title="卫视",青海卫视高清
+http://www.hiiptv.cn:6060/200000001898/460000089800010111/.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.404003.xyz/LOGO/黑莓动画.png" group-title="NewTV",黑莓动画
+http://www.hiiptv.cn:6060/200000001898/460000089800010002/1.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.404003.xyz/LOGO/黑莓电影.png" group-title="NewTV",黑莓电影
+http://www.hiiptv.cn:6060/200000001898/460000089800010073/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.404003.xyz/LOGO/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://www.hiiptv.cn:6060/200000001898/460000089800010222/1.m3u8
