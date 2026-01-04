@@ -21,8 +21,6 @@ CCTV-14,http://tvgslb.hn.chinamobile.com:8089/180000001002/000000010000000000080
 CCTV-15,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446967/main.m3u8
 CCTV-16,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434986/main.m3u8
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/main.m3u8
-CCTV-16 4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/main.m3u8
-CCTV-4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8
 
 卫视频道,#genre#
 湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308827/main.m3u8
@@ -64,28 +62,20 @@ CCTV-4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/320230922110208484620
 厦门卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381023/main.m3u8
 兵团卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381024/main.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.935181.xyz/LOGO/CCTV4K.png" group-title="超清频道",CCTV-4K
-http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.935181.xyz/LOGO/CCTV16.png" group-title="超清频道",CCTV16-4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/main.m3u8$hnyd
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.935181.xyz/LOGO/湖南卫视4K.png" group-title="超清频道",湖南卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8$hnyd
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.404003.xyz/LOGO/江苏卫视4K.png" group-title="超清频道",江苏卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262178928213010539289/main.m3u8
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视4K.png" group-title="超清频道",浙江卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262252695540491433081/main.m3u8
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.404003.xyz/LOGO/东方卫视4K.png" group-title="超清频道",东方卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262078079170451541005/main.m3u8
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.404003.xyz/LOGO/四川卫视4K.png" group-title="超清频道",四川卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262063636605981698869/main.m3u8
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.404003.xyz/LOGO/山东卫视4K.png" group-title="超清频道",山东卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262122088149630612658/main.m3u8
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.404003.xyz/LOGO/北京卫视4K.png" group-title="超清频道",北京卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025022616374181764583225166397/main.m3u8
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.404003.xyz/LOGO/广东卫视4K.png" group-title="超清频道",广东卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216045554851550640574941/main.m3u8
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.404003.xyz/LOGO/深圳卫视4K.png" group-title="超清频道",深圳卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216044934209640975946187/main.m3u8
+超清频道,#genre#
+CCTV-4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8
+CCTV-4K,http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8
+CCTV-16 4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/main.m3u8
+CCTV-16 4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/main.m3u8
+湖南卫视4K,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8
+江苏卫视4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262178928213010539289/main.m3u8
+浙江卫视4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262252695540491433081/main.m3u8
+东方卫视4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262078079170451541005/main.m3u8
+四川卫视4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262063636605981698869/main.m3u8
+山东卫视4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262122088149630612658/main.m3u8
+北京卫视4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32025022616374181764583225166397/main.m3u8
+广东卫视4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216045554851550640574941/main.m3u8
+深圳卫视4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216044934209640975946187/main.m3u8
 
 湖南频道,#genre#
 湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
@@ -148,7 +138,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216044934209640975946
 风云足球,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244800/main.m3u8
 怀旧剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244806/main.m3u8
 女性时尚,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244811/main.m3u8
-央视文化精品,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244810/main.m3u8
+央视文化,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244810/main.m3u8
 世界地理,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244805/main.m3u8
 央视台球,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244803/main.m3u8
 兵器科技,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8
