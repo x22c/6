@@ -213,6 +213,18 @@ http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 #EXTINF:-1,tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="https://11.112114.xyz/logo/江阴新闻综合.png" group-title="江苏频道",江阴新闻综合
 http://221.228.70.101:8080/live/xinwen.m3u8
 
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="超清频道",CCTV-3超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiC5KyJleyIffsaVcNhS%2FJk04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="超清频道",CCTV-4超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEm2D6ehZ%2Fm6uG04mUXeIzUE04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="超清频道",CCTV-5超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuLBiWJLb2Xs%2Fj68hSxh8s980u7QUbxN5sCUdpV6z2MK&p=GITV&area=JS_CUCC
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="超清频道",CCTV-6超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEs08JDfw3s7WN3MnDGyc%2FSg04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="超清频道",CCTV-8超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjRHl42BlkGJajq1an8WD9s04ctvOE2aPjA%2F%2B%2BXXw1nH&p=GITV&area=JS_CUCC
+#EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="超清频道",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="精彩频道",优漫卡通
