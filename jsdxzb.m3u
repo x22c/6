@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视频道",CCTV-1
 http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png" group-title="央视频道",CCTV-2
@@ -352,3 +351,161 @@ rtp://239.49.0.146:8000
 rtp://239.49.8.193:8000
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="精彩频道",武术世界
 rtp://239.49.0.205:8000
+
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="备用线路",CCTV1
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png" group-title="备用线路",CCTV2
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="备用线路",CCTV3
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.404003.xyz/LOGO/CCTV4.png" group-title="备用线路",CCTV4
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="备用线路",CCTV5
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://live.404003.xyz/LOGO/CCTV5+.png" group-title="备用线路",CCTV5+
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="备用线路",CCTV6
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.404003.xyz/LOGO/CCTV7.png" group-title="备用线路",CCTV7
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-7-CQ/G_CCTV-7-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="备用线路",CCTV8
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.404003.xyz/LOGO/CCTV9.png" group-title="备用线路",CCTV9
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-9-HD-265-8M/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.404003.xyz/LOGO/CCTV10.png" group-title="备用线路",CCTV10
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-10-HD-265-8M/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.404003.xyz/LOGO/CCTV11.png" group-title="备用线路",CCTV11
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-11-HQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.404003.xyz/LOGO/CCTV12.png" group-title="备用线路",CCTV12
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-12-HD-265-8M/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.404003.xyz/LOGO/CCTV13.png" group-title="备用线路",CCTV13
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-13-HD-265-8M/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.404003.xyz/LOGO/CCTV14.png" group-title="备用线路",CCTV14
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-14-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.404003.xyz/LOGO/CCTV15.png" group-title="备用线路",CCTV15
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-15-HQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png" group-title="备用线路",CCTV16
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-16-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.404003.xyz/LOGO/CCTV17.png" group-title="备用线路",CCTV17
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-17-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.404003.xyz/LOGO/重温经典.png" group-title="备用线路",重温经典
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CWJD-HQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.404003.xyz/LOGO/江苏卫视.png" group-title="备用线路",江苏卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JIANGSU-MD/G_JIANGSU-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.404003.xyz/LOGO/广西卫视.png" group-title="备用线路",广西卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_GUANGXI-HQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.404003.xyz/LOGO/四川卫视.png" group-title="备用线路",四川卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_SICHUAN-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.404003.xyz/LOGO/湖南卫视.png" group-title="备用线路",湖南卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HUNAN-MD/G_HUNAN-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视.png" group-title="备用线路",浙江卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.404003.xyz/LOGO/东方卫视.png" group-title="备用线路",东方卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_DONGFANG-MD/G_DONGFANG-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.404003.xyz/LOGO/北京卫视.png" group-title="备用线路",北京卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_BEIJING-MD/G_BEIJING-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.404003.xyz/LOGO/天津卫视.png" group-title="备用线路",天津卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_TIANJIN-MD/G_TIANJIN-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.404003.xyz/LOGO/辽宁卫视.png" group-title="备用线路",辽宁卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_LIAONING-MD/G_LIAONING-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.404003.xyz/LOGO/安徽卫视.png" group-title="备用线路",安徽卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_ANHUI-MD/G_ANHUI-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.404003.xyz/LOGO/黑龙江卫视.png" group-title="备用线路",黑龙江卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HEILONGJIANG-MD/G_HEILONGJIANG-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.404003.xyz/LOGO/广东卫视.png" group-title="备用线路",广东卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_GUANGDONG-MD/G_GUANGDONG-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.404003.xyz/LOGO/深圳卫视.png" group-title="备用线路",深圳卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_SHENZHEN-MD/G_SHENZHEN-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.404003.xyz/LOGO/湖北卫视.png" group-title="备用线路",湖北卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HUBEI-MD/G_HUBEI-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.404003.xyz/LOGO/吉林卫视.png" group-title="备用线路",吉林卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JILIN-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.404003.xyz/LOGO/山东卫视.png" group-title="备用线路",山东卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_SHANDONG-MD/G_SHANDONG-MD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.404003.xyz/LOGO/江西卫视.png" group-title="备用线路",江西卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JIANGXI-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.404003.xyz/LOGO/河南卫视.png" group-title="备用线路",河南卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HENAN-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.404003.xyz/LOGO/河北卫视.png" group-title="备用线路",河北卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HEBEI-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.404003.xyz/LOGO/甘肃卫视.png" group-title="备用线路",甘肃卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_GANSU-HQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.404003.xyz/LOGO/重庆卫视.png" group-title="备用线路",重庆卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CHONGQING-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.404003.xyz/LOGO/东南卫视.png" group-title="备用线路",东南卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_DONGNAN-HQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.404003.xyz/LOGO/云南卫视.png" group-title="备用线路",云南卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_YUNNAN-HQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.404003.xyz/LOGO/贵州卫视.png" group-title="备用线路",贵州卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_GUIZHOU-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.404003.xyz/LOGO/海南卫视.png" group-title="备用线路",海南卫视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HAINAN-HQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="4K频道",CCTV5-4K
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_YITANCQ/G_YITANCQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png" group-title="4K频道",CCTV16-4K
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.404003.xyz/LOGO/CCTV4K.png" group-title="4K频道",CCTV4K
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CETV-1高清" tvg-name="CETV-1高清" tvg-logo="https://live.404003.xyz/LOGO/CETV1.png" group-title="备用线路",CETV-1高清
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-1-HQ/G_CETV-1-HQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://live.404003.xyz/LOGO/CETV2.png" group-title="备用线路",CETV-2
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-2/G_CETV-2/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CETV-3" tvg-name="CETV-3" tvg-logo="https://live.404003.xyz/LOGO/CETV3.png" group-title="备用线路",CETV-3
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-3/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://live.404003.xyz/LOGO/CETV4.png" group-title="备用线路",CETV-4
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-4/G_CETV-4/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.404003.xyz/LOGO/CGTN俄语.png" group-title="备用线路",CGTN俄语
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CGTN-PYCCNN/G_CGTN-PYCCNN/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CGTN新闻" tvg-name="CGTN新闻" tvg-logo="https://live.404003.xyz/LOGO/CGTN新闻.png" group-title="备用线路",CGTN新闻
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.404003.xyz/LOGO/CGTN法语.png" group-title="备用线路",CGTN法语
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CGTN-FRANCAIS/G_CGTN-FRANCAIS/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://live.404003.xyz/LOGO/CGTN西班牙语.png" group-title="备用线路",CGTN西班牙语
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CGTN-ESPANOL/G_CGTN-ESPANOL/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://live.404003.xyz/LOGO/CGTN阿拉伯语.png" group-title="备用线路",CGTN阿拉伯语
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CGTN_A/gitv_live/G_CGTN_A/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="江苏休闲体育" tvg-name="江苏休闲体育" tvg-logo="https://live.404003.xyz/LOGO/江苏休闲体育.png" group-title="备用线路",江苏休闲体育
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSTY/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://live.404003.xyz/LOGO/江苏城市.png" group-title="备用线路",江苏城市
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSCS/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://live.404003.xyz/LOGO/江苏影视.png" group-title="备用线路",江苏影视
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSYS/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="江苏教育电视台" tvg-name="江苏教育电视台" tvg-logo="https://live.404003.xyz/LOGO/江苏教育电视台.png" group-title="备用线路",江苏教育
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSJY/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://live.404003.xyz/LOGO/江苏新闻.png" group-title="备用线路",江苏新闻
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSGG/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://live.404003.xyz/LOGO/江苏综艺.png" group-title="备用线路",江苏综艺
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSZY/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="置业频道" tvg-name="置业频道" tvg-logo="https://live.404003.xyz/LOGO/置业.png" group-title="备用线路",置业频道
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_ZHIYE/G_ZHIYE/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.404003.xyz/LOGO/老故事.png" group-title="备用线路",老故事
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_LAOGUSHI/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="职业指南" tvg-name="职业指南" tvg-logo="https://live.404003.xyz/LOGO/职业指南.png" group-title="备用线路",职业指南
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_ZHIYEZN/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.404003.xyz/LOGO/高尔夫网球.png" group-title="备用线路",高尔夫网球
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.404003.xyz/LOGO/金鹰纪实.png" group-title="备用线路",金鹰纪实高清
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JINYINGJS-HQ/G_JINYINGJS-HQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://live.404003.xyz/LOGO/京视剧场.png" group-title="备用线路",京视剧场
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JINGJU/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.404003.xyz/LOGO/发现之旅.png" group-title="备用线路",发现之旅
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_FAXIANZL/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://live.404003.xyz/LOGO/南京新闻综合.png" group-title="备用线路",南京新闻综合
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_NJXW/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.404003.xyz/LOGO/卡酷少儿.png" group-title="备用线路",卡酷少儿
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_KAKU/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.404003.xyz/LOGO/优漫卡通.png" group-title="备用线路",优漫卡通
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_YOUMAN/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://live.404003.xyz/LOGO/炫动卡通.png" group-title="备用线路",炫动卡通
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_XUANDONG/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.404003.xyz/LOGO/金鹰卡通.png" group-title="备用线路",金鹰卡通
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JINYING/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.404003.xyz/LOGO/嘉佳卡通.png" group-title="备用线路",嘉佳卡通
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JIAJIA/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="弈坛春秋" tvg-name="弈坛春秋" tvg-logo="https://live.404003.xyz/LOGO/弈坛春秋.png" group-title="备用线路",弈坛春秋
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_YITANCQ/G_YITANCQ/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.404003.xyz/LOGO/上海纪实.png" group-title="上海",上海纪实高清
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.404003.xyz/LOGO/家庭理财.png" group-title="备用线路",家庭理财
+http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JIATINGLC/1.m3u8?m3u8_level=2
