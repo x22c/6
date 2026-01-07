@@ -82,7 +82,7 @@ CCTV16-4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index
 北京卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/01.m3u8?fmt=ts2hls
 北京卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226394/01.m3u8
 北京卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226394/index.m3u8
-北京卫视4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/1.m3u8?fmt=ts2hls$易视腾
+北京卫视4K,http://ysten.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/1.m3u8?fmt=ts2hls
 四川卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8?fmt=ts2hls
 山东卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226407/index.m3u8?fmt=ts2hls
 广东卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226405/index.m3u8?fmt=ts2hls
