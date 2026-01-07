@@ -111,6 +111,31 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
 #EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://epg.112114.xyz/logo/延边卫视.png" group-title="卫视频道",延边卫视
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8
 
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="超清频道",东方卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001641/index.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="超清频道",江苏卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001700/index.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="超清频道",浙江卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001720/index.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="超清频道",北京卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001500/index.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="超清频道",北京卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001510/index.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="超清频道",深圳卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001560/index.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="超清频道",深圳卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001521/index.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="超清频道",广东卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001550/index.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="超清频道",广东卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001540/index.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="超清频道",山东卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001582/index.m3u8
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="超清频道",四川卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001690/index.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="超清频道",湖南卫视4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001710/index.m3u8
+
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海地方",上海新闻
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海地方",五星体育
