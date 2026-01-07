@@ -46,8 +46,22 @@ CCTV-17,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 黑龙江卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
 
 超清频道,#genre#
-咪咕视频-4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 CCTV-4K 超高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
+四川卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
+四川卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000010/index.m3u8
+四川卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226781/index.m3u8
+东方卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
+东方卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000009/index.m3u8
+东方卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226786/index.m3u8
+江苏卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8
+江苏卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000007/index.m3u8
+江苏卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226778/index.m3u8
+浙江卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
+浙江卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000008/index.m3u8
+浙江卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226776/index.m3u8
+湖南卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8
+湖南卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000006/index.m3u8
+湖南卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226783/index.m3u8
 北京卫视-4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
 广东卫视-4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
 深圳卫视-4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
