@@ -254,17 +254,19 @@ https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="超清频道",江苏卫视 4K
 http://183.207.249.71/gitv/live1/-/G_JIANGSU-4K
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="超清频道",江苏卫视 4K
+http://ott.mobaibox.com/PLTV/*/224/3221228861/index.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="超清频道",江苏卫视 4K
 http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="超清频道",北京卫视 4K
+http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="超清频道",北京卫视 4K
 http://ott.mobaibox.com/PLTV/*/224/3221228817/index.m3u8
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="超清频道",广东卫视 4K
 http://ott.mobaibox.com/PLTV/*/224/3221228838/index.m3u8
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="超清频道",深圳卫视 4K
 http://ott.mobaibox.com/PLTV/*/224/3221228835/index.m3u8
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="超清频道",江苏卫视 4K
-http://ott.mobaibox.com/PLTV/*/224/3221228861/index.m3u8
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="超清频道",北京卫视 4K
-http://ott.mobaibox.com/PLTV/*/224/3221228890/index.m3u8
+
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="超清频道",CCTV1  4K
 http://ott.mobaibox.com/PLTV/*/224/3221228581/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="超清频道",CCTV1  4K
