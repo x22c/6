@@ -125,7 +125,7 @@ CGTN-英语,http://live2.rxip.sc96655.com/live/CGTN_4000.m3u8?E=1&U=1&A=1&K=1&P=
 央广购物,http://live2.rxip.sc96655.com/live/yggwgq_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 优购物,http://live2.rxip.sc96655.com/live/ygw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
-四川地方,#genre#
+地方频道,#genre#
 四川文化旅游,http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 四川经济,http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 四川新闻,http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
